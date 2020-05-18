@@ -24,6 +24,7 @@
           },
           "photo_image_file": {
             "type": "array",
+            "uniqueItems": true,
             "items": {
               "type": "object",
               "properties": {
