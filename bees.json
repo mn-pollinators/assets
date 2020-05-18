@@ -6,23 +6,6 @@
       "sci_name": "Apis mellifera",
       "flowers_accepted": "asclepias_syriaca, cirsium_discolor, echinacea_angustifolia, helianthus_maximiliani, rubus_occidentalis, monarda_fistulosa, prunus_americana, rudbeckia_hirta, solidago_rigida, taraxacum_officinale, trifolium_repens, vaccinium_angustifolium",
       "image_file": "Apis_mellifera.png",
-      "photo_image_file": [
-        {
-          "filename": "PB001.jpg",
-          "attribution": "Courtesy Luc Viatour, Wikimedia Commons [Creative Commons Attribution-Share Alike 3.0 Unported]",
-          "caption": "A honey bee stopping at a flower for nectar.",
-          "image_link": "https://commons.wikimedia.org/wiki/File:Apis_mellifera_Luc_Viatour.jpg"
-        },
-        {
-          "filename": "PB002.jpeg",
-          "attribution": "Courtesy George W. Robinson © California Academy of Sciences",
-          "caption": "Honey bees near their honey comb nest.",
-          "image_link": "https://calphotos.berkeley.edu/cgi/img_query?enlarge=9092+3191+3539+0116"
-        }
-      ],
-      "active_period": [
-        "--04-01/--10-15"
-      ],
       "description": {
         "sociality": "Honey bees are social and live together in a large colony.",
         "nesting": "The honey bee nest is divided with wax combs that store pollen and nectar. Honey bees live in a house or box that humans make for them.",
