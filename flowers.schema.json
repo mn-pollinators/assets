@@ -46,7 +46,8 @@
                 "attribution",
                 "caption",
                 "image_link"
-              ]
+              ],
+              "additionalProperties": false
             }
           },
           "blooming_period": {
@@ -68,12 +69,14 @@
           "photo_image_file",
           "blooming_period",
           "description"
-        ]
+        ],
+        "additionalProperties": false
       }
     }
   },
   "required": [
     "version",
     "flowers"
-  ]
+  ],
+  "additionalProperties": false
 }
