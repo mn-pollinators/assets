@@ -100,10 +100,26 @@
             "required": []
           },
           "nest_type": {
-            "type": "string"
+            "type": "string",
+            "enum": [
+              "cavity",
+              "pithy_stem",
+              "ground_bare",
+              "ground_grass",
+              "rotting_wood",
+              "bumble_bee_nest",
+              "honey_bee_house"
+            ]
           },
           "sociality": {
-            "type": "string"
+            "type": "string",
+            "enum": [
+              "social",
+              "solitary",
+              "primitively_social",
+              "eusocial",
+              "communal"
+            ]
           }
         },
         "required": [
