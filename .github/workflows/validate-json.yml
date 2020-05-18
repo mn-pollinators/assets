@@ -4,6 +4,7 @@ on:
   push:
     paths:
     - '**.json'
+    - '.github/workflows/validate-json.yml'
 
 jobs:
   # This workflow contains a single job called "build"
@@ -16,3 +17,13 @@ jobs:
         env:
           INPUT_SCHEMA: ./bees.schema.json
           INPUT_JSONS: ./bees.json
+
+  validate-flowers:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: Validate JSON
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: ./flowers.schema.json
+          INPUT_JSONS: ./flowers.json

@@ -1,0 +1,329 @@
+{
+  "version": "1.0.1",
+  "flowers": {
+    "asclepias_syriaca": {
+      "name": "common milkweed",
+      "sci_name": "Asclepias syriaca",
+      "image_file": "Asclepias_syriaca.png",
+      "photo_image_file": [
+        {
+          "filename": "PG001.jpg",
+          "attribution": "Courtesy Katy Chayka, Minnesota Wildflowers.",
+          "caption": "Common milkweed flowers. Photo taken in Ramsey County in 2008.",
+          "image_link": "https://www.minnesotawildflowers.info/flower/common-milkweed"
+        },
+        {
+          "filename": "PG002.jpg",
+          "attribution": "Courtesy Katy Chayka, Minnesota Wildflowers.",
+          "caption": "Common milkweed plant. Photo taken in Ramsey County in 2008.",
+          "image_link": "https://www.minnesotawildflowers.info/flower/common-milkweed"
+        },
+        {
+          "filename": "PG003.jpg",
+          "attribution": "Courtsey Forest & Kim Starr, Wikimedia Commons, (CC BY 3.0).",
+          "caption": "A monarch caterpillar feeding on a Milkweed plant (though not a Common Milkweed plant).",
+          "image_link": "https://commons.wikimedia.org/wiki/File:Starr_050208-3854_Asclepias_physocarpa.jpg"
+        },
+        {
+          "filename": "PG004.jpg",
+          "attribution": "Photo by and Copyright Derek Ramsey 2009 [GFDL 1.2 (http://www.gnu.org/licenses/old-licenses/fdl-1.2.html)], Wikimedia Commons.",
+          "caption": "A monarch butterfly laying eggs on a Milkweed plant (though likely not a Common Milkweed plant).",
+          "image_link": "https://commons.wikimedia.org/wiki/File:Monarch_Butterfly_Danaus_plexippus_Laying_Eggs.jpg"
+        }
+      ],
+      "blooming_period": [
+        "--06-01/--08-31"
+      ],
+      "description": "Asclepias syriaca or, Common milkweed is a tall perennial plant that grows in sunny areas and flowers from June to August. It has pink flowers and green leaves. Common milkweed attracts lots of kinds of insects both to feed on the nectar from the flowers and to lay eggs. This is an important plant to the monarch butterfly, Danaus plexippus. The monarch butterfly lays its eggs on the leaves, and when the eggs hatch, the larvae eat the leaves before turning into butterflies. Common milkweed commonly attracts these bees: Megachile (leafcutter bees), Bombus (bumble bees), Halictus (sweat bees), and Coelioxys (cuckoo bees)."
+    },
+    "cirsium_discolor": {
+      "name": "field or pasture thistle",
+      "sci_name": "Cirsium discolor",
+      "image_file": "Cirsium_discolor.png",
+       "photo_image_file": [
+        {
+          "filename": "PG005.jpg",
+          "attribution": "Courtesy Katy Chayka, Minnesota Wildflowers.",
+          "caption": "Field Thistle plant. Photo by K. Chayka taken at Long Lake and Rice Creek Regional Parks, Ramsey County.",
+          "image_link": "https://www.minnesotawildflowers.info/flower/field-thistle"
+        },
+        {
+          "filename": "PG006.jpg",
+          "attribution": "Courtesy George F Mayfield, Wikimedia Commons, (CC BY-SA 2.0)",
+          "caption": "The flower head of a Field Thistle.",
+          "image_link": "https://commons.wikimedia.org/wiki/File:Cirsium_discolor_(3254496224).jpg"
+        }
+      ],
+      "blooming_period": [
+        "--06-30/--10-01"
+      ],
+      "description": "Cirsium discolor or, Field or Pasture Thistle is a tall flowering plant with large pink flower heads and a long flowering period. Native thistles like the Field Thistle are very important forage plants for bees. The Field Thistle grows in upland sunny areas and flowers from July to October. Field Thistle commonly attracts these bees: Bombus (bumble bees), Megachile (leafcutter bees), Agapostemon (metallic green sweat bees), Halictus (sweat bees), Lasioglossum (small sweat bees), and Melissodes (long-horned bees)."
+    },
+    "echinacea_angustifolia": {
+      "name": "narrow-leaved purple coneflower",
+      "sci_name": "Echinacea angustifolia",
+      "image_file": "Echinacea_angustifolia.png",
+       "photo_image_file": [
+        {
+          "filename": "PG007.jpg",
+          "attribution": "Courtesy Peter M. Dziuk, Minnesota Wildflowers.",
+          "caption": "A Narrow-Leaved Purple Coneflower flowering head. Photos taken in Pope County and in a private garden in Anoka County.",
+          "image_link": "https://www.minnesotawildflowers.info/flower/narrow-leaved-purple-coneflower"
+        },
+        {
+          "filename": "PG008.jpg",
+          "attribution": "Courtesy Peter M. Dziuk, Minnesota Wildflowers.",
+          "caption": "A Narrow-Leaved Purple Coneflower plant. Photos taken in Pope County and in a private garden in Anoka County.",
+          "image_link": "https://www.minnesotawildflowers.info/flower/narrow-leaved-purple-coneflower"
+        }
+      ],
+      "blooming_period": [
+        "--06-01/--10-31"
+      ],
+      "description": "Echinacea angustifolia or, Narrow Leaved Purple Coneflower is a native prairie plant. It grows in dry, sunny areas and flowers from June to October. The Purple Coneflower has green, fuzzy leaves and stems with purple or pink petals and an orange-brown center disk. Many Native American groups used this plant for a variety of medicinal purposes, including pain relief and relief of colds and toothaches. Purple Coneflower commonly attracts these bees: Andrena (mining bees), Bombus (bumble bees), Ceratina (small carpenter bees), Melissodes (long-horned bees), Hylaeus (yellow-faced or masked bees), Agapostemon (metallic green sweat bees), Augochlorella (metallic green sweat bees), Halictus (sweat bees), Lasioglossum (small sweat bees), Coelioxys (cuckoo bees), Heriades (small resin bees), Megachile (leafcutter bees), Anthidium (wool carder bees), and Xylocopa (large carpenter bees)."
+    },
+    "rubus_occidentalis": {
+      "name": "black raspberry",
+      "sci_name": "Rubus occidentalis",
+      "image_file": "Rubus_occidentalis.png",
+       "photo_image_file": [
+        {
+          "filename": "PG009.jpg",
+          "attribution": "Courtesy Peter M. Dziuk, Minnesota Wildflowers.",
+          "caption": "Black Raspberry flowers. Photograph taken in Anoka, Fillmore and Ramsey counties, 2015.",
+          "image_link": "https://www.minnesotawildflowers.info/shrub/black-raspberry"
+        },
+        {
+         "filename": "PG010.jpg",
+          "attribution": "Courtesy Peter M. Dziuk, Minnesota Wildflowers.",
+          "caption": "Black Raspberry flowers. Photograph taken in Anoka, Fillmore and Ramsey counties, 2015.",
+          "image_link": "https://www.minnesotawildflowers.info/shrub/black-raspberry" 
+        }
+      ],
+      "blooming_period": [
+        "--05-01/--06-30"
+      ],
+      "description": "Rubus occidentalis or, Black Raspberry is a common native plant frequently found along roadsides and hiking trails. It produces white flowers from May to June. After it is pollinated, it makes dark berries (black raspberries) that are edible to humans and other mammals. Black Raspberry commonly attracts these bees: Bombus (bumble bees), Osmia (mason bees), Megachile (leafcutter bees), Nomada (cuckoo bees), Agapostemon (metallic green sweat bees), Halictus (sweat bees), Lasioglossum (small sweat bees), Augochloropsis (metallic green sweat bees), Augochlorella (metallic green sweat bees), Augochlora (metallic green sweat bees), Andrena (mining bees), and Calliopsis (mining bees)."
+    },
+    "monarda_fistulosa": {
+      "name": "wild bergamot or bee balm",
+      "sci_name": "Monarda fistulosa",
+      "image_file": "Monarda_fistulosa.png",
+       "photo_image_file": [
+        {
+          "filename": "PG011.jpg",
+          "attribution": "Courtesy Peter M. Dziuk, Minnesota Wildflowers.",
+          "caption": "Wild Bergamot flower head. Photograph taken in Ramsey, Anoka and Dodge counties, 2002.",
+          "image_link": "https://www.minnesotawildflowers.info/flower/wild-bergamot"
+        },
+        {
+          "filename": "PG012.jpg",
+          "attribution": "Courtesy Peter M. Dziuk, Minnesota Wildflowers.",
+          "caption": "Wild Bergamot flowering plant. Photograph taken in Ramsey, Anoka and Dodge counties, 2010.",
+          "image_link": "https://www.minnesotawildflowers.info/flower/wild-bergamot"
+        }
+      ],
+      "blooming_period": [
+        "--06-20/--08-20"
+      ],
+      "description": "Monarda fistulosa or, Wild Bergamot or Bee Balm is a fast-spreading plant that lives in upland sunny areas. It produces light or dark pink flowers from late June to September. The flowers attract many insects who are looking for some pollen but mostly nectar. Wild bergamot was considered a medicinal plant by many Native Americans including the Menominee, the Ojibwe, and the Winnebago (Ho-Chunk). It was used most commonly to treat colds, and was frequently made into a tea. Today, many families still use wild bergamot during the cold and flu season. Wild Bergamot commonly attracts these bees: Bombus (bumble bees), Anthophora (digger bees), Melissodes (long-horned bees), Megachile (leafcutter bees), and Agapostemon (metallic green sweat bees)."
+    },
+    "prunus_americana": {
+      "name": "wild plum",
+      "sci_name": "Prunus americana",
+      "image_file": "Prunus_americana.png",
+       "photo_image_file": [
+        {
+          "filename": "PG013.jpg",
+          "attribution": "Courtesy Peter M. Dziuk, Minnesota Wildflowers.",
+          "caption": "Wild Plum in a park landscape. Photograph taken in 2004. Photographs taken in Anoka, Douglas and Ramsey counties.",
+          "image_link": "https://www.minnesotawildflowers.info/tree/wild-plum"
+        },
+        {
+          "filename": "PG014.jpg",
+          "attribution": "Courtesy Peter M. Dziuk, Minnesota Wildflowers.",
+          "caption": "Wild Plum in a park landscape. Photograph taken in 2003. Photographs taken in Anoka, Douglas and Ramsey counties.",
+          "image_link": "https://www.minnesotawildflowers.info/tree/wild-plum"
+        },
+        {
+          "filename": "PG015.jpg",
+          "attribution": "Courtesy Heather Holm, Minnesota Wildflowers.",
+          "caption": "Bombus griseocollis Queen on Wild Plum. Photograph taken in 2014.",
+          "image_link": "https://www.minnesotawildflowers.info/tree/wild-plum"
+        },
+        {
+          "filename": "PG016.jpg",
+          "attribution": "Courtesy Peter M. Dziuk, Minnesota Wildflowers.",
+          "caption": "Wild Plum fruits still on the branch. Photograph taken in 2006. Photographs taken in Anoka, Douglas and Ramsey counties.",
+          "image_link": "https://www.minnesotawildflowers.info/tree/wild-plum"
+        }
+      ],
+      "blooming_period": [
+        "--04-15/--06-15"
+      ],
+      "description": "Prunus americana or, Wild Plum is a small native tree with white flowers. After flowering from April to June, it produces plum fruits in August and September. This tree is common on the edges of woodlands, in old field margins, and in prairies. The Wild Plum are self-incompatible and extremely fragrant, which attracts a large number of insects for both pollen and nectar. Wild Plum commonly attracts these bees: Andrena (mining bees), Lasioglossum (small sweat bees), Colletes (cellophane bees), Bombus (bumble bees), Osmia (mason bees), and Nomada (cuckoo bees)."
+    },
+    "rudbeckia_hirta": {
+      "name": "black-eyed susan",
+      "sci_name": "Rudbeckia hirta",
+      "image_file": "Rudbeckia_hirta.png",
+       "photo_image_file": [
+        {
+          "filename": "PG017.jpg",
+          "attribution": "Courtesy Katy Chayka, Minnesota Wildflowers.",
+          "caption": "Black-Eyed Susan plants. Photos taken in Anoka and Ramsey counties in 2007.",
+          "image_link": "https://www.minnesotawildflowers.info/flower/black-eyed-susan"
+        },
+        {
+          "filename": "PG018.jpg",
+          "attribution": "Courtesy Katy Chayka, Minnesota Wildflowers.",
+          "caption": "Black-Eyed Susan flowering head. Photos taken in Anoka and Ramsey counties in 2009.",
+          "image_link": "https://www.minnesotawildflowers.info/flower/black-eyed-susan"
+        }
+      ],
+      "blooming_period": [
+        "--05-20/--09-20"
+      ],
+      "description": "Rudbeckia hirta or, Black-Eyed Susan is a short-lived native plant and is often one of the first plants to flower in prairie restoration. It has yellow petals with a dark brown center with coarse bright green leaves. The plant also is a traditional Native American medicinal herb in several tribal nations believed in those cultures to be a remedy, among other things, for colds, flu, infection, swelling and for snake bite (although not all parts of the plant are edible). Black-Eyed Susan flowers from June to September. Black-Eyed Susan commonly attracts these bees: Melissodes (long-horned bees), Agapostemon and Augochlorella (metallic green sweat bees), Halticus (sweat bees), Bombus (bumble bees), Megachile (leafcutter bees), and Coelioxys (cuckoo bees)."
+    },
+    "solidago_rigida": {
+      "name": "stiff goldenrod",
+      "sci_name": "Solidago rigida",
+      "image_file": "Solidago_rigida.png",
+       "photo_image_file": [
+        {
+          "filename": "PG019.jpg",
+          "attribution": "Courtesy Katy Chayka, Minnesota Wildflowers.",
+          "caption": "Stiff Goldenrod flowering head. Photos taken in Ramsey, Chisago and McLeod counties in 2011.",
+          "image_link": "https://www.minnesotawildflowers.info/flower/stiff-goldenrod"
+        },
+        {
+          "filename": "PG020.jpg",
+          "attribution": "Courtesy Katy Chayka, Minnesota Wildflowers.",
+          "caption": "Stiff Goldenrod plants. Photos taken in Ramsey, Chisago and McLeod counties in 2009.",
+          "image_link": "https://www.minnesotawildflowers.info/flower/stiff-goldenrod"
+        },
+        {
+         "filename": "PG021.jpg",
+          "attribution": "Courtesy Katy Chayka, Minnesota Wildflowers.",
+          "caption": "A pollinator party on a Stiff Goldenrod flowering head. Photos taken in Ramsey, Chisago and McLeod counties in 2013.",
+          "image_link": "https://www.minnesotawildflowers.info/flower/stiff-goldenrod" 
+        }
+      ],
+      "blooming_period": [
+        "--07-20/--10-31"
+      ],
+      "description": "Solidago rigida or, Stiff Goldenrod is an upright perennial with yellow or orange flowers. It is often used in sunny gardens, prairie plantings or restorations. Besides bees, the flowers attract a wide variety of flower-visiting insects. The Ojibwe traditionally used the root as an enema and took an infusion of the root to treat 'stoppage of urine.' The Meskwaki traditionally made the flowers into a lotion and used them on bee stings and for swollen faces. Stiff Goldenrod flowers from August to October and commonly attracts these bees: Agapostemon and Augochlorella (metallic green sweat bees), Melissodes (long-horned bees), Halictus (sweat bees), Lasioglossum (small sweat bees), Megachile (leafcutter bees), Ceratina (small carpenter bees), Hylaeus (yellow-faced bees), Andrena (mining bees), and Bombus (bumble bees)."
+    },
+    "taraxacum_officinale": {
+      "name": "common dandelion",
+      "sci_name": "Taraxacum officinale",
+      "image_file": "Taraxacum_officinale.png",
+       "photo_image_file": [
+        {
+          "filename": "PG022.jpg",
+          "attribution": "Courtesy of Peter M. Dziuk, Minnesota Wildflowers.",
+          "caption": "Common Dandelion flowering head.",
+          "image_link": "https://www.minnesotawildflowers.info/flower/common-dandelion" 
+        },
+        {
+          "filename": "PG023.jpg",
+          "attribution": "Courtesy of Peter M. Dziuk, Minnesota Wildflowers.",
+          "caption": "Common Dandelion plant.",
+          "image_link": "https://www.minnesotawildflowers.info/flower/common-dandelion"
+        }
+      ],
+      "blooming_period": [
+        "--04-01/--09-30"
+      ],
+      "description": "Taraxacum officinale or, Common Dandelion is an introduced plant from Europe and is extremely common. It is considered a weed in most places but it is sometimes used as a medical herb and in food preparation. Common Dandelion can be found growing in temperate regions of the world, in lawns, on roadsides, on disturbed banks and shores of water ways, and other areas with moist soils. Common dandelion is well known for its yellow flower heads that turn into round balls of silver tufted fruits that disperse in the wind. The common name comes from the French “dent de lion”—tooth of lion—referring to the sharp leaf lobes. Common Dandelion attracts an extremely large range of pollinators but only in times of extreme need (the quality of the pollen is low). Common Dandelion attracts these bees: Colletes (cellophane bees), Hylaeus (yellow-faced bees), Andrena (mining bees), Calliopsis (mining bees), Agapostemon (metallic green sweat bees), Halictus (sweat bees), Lasioglossum (small sweat bees), Augochloropsis and Augochlorella and Augochlora (metallic green sweat bees), Osmia (mason bees), Megachile (leafcutter bees), Hoplitis (mason bees), Heriades (small resin bees), Anthidium (wool carder bees), Bombus (bumble bees), Anthophora (digger bees), Melissodes (long-horned bees), Ceratina (small carpenter bees), and Xylocopa (large carpenter bees)."
+    },
+    "trifolium_repens": {
+      "name": "white clover",
+      "sci_name": "Trifolium repens",
+      "image_file": "Trifolium_repens.png",
+       "photo_image_file": [
+        {
+          "filename": "PG024.jpg",
+          "attribution": "Courtesy of Peter M. Dziuk, Minnesota Wildflowers.",
+          "caption": "White Clover flowering heads. Photo taken in Anoka County in 2003.",
+          "image_link": "https://www.minnesotawildflowers.info/flower/white-clover"
+        },
+        {
+          "filename": "PG025.jpg",
+          "attribution": "Courtesy of Katy Chayka, Minnesota Wildflowers.",
+          "caption": "White Clover plants. Photo taken in Ramsey and Aitkin counties in 2010.",
+          "image_link": "https://www.minnesotawildflowers.info/flower/white-clover"
+        },
+        {
+          "filename": "PG026.jpg",
+          "attribution": "Courtesy Ivar Leidus, Wikimedia Commons, (CC BY-SA 4.0).",
+          "caption": "A pollinator on a White Clover flowering head.",
+          "image_link": "https://en.wikipedia.org/wiki/Trifolium_repens#/media/File:Bombus_barbutellus_-_Trifolium_repens_-_Keila.jpg"
+        }
+      ],
+      "blooming_period": [
+        "--05-01/--10-31"
+      ],
+      "description": "Trifolium repens or, White Clover is native from Europe to western Asia and into north Africa but has been introduced as a forage species for livestock throughout the world. Although it isn’t native to the area, it is often used for foraging by bees. White Clover is often used by honey bees for nectar, which then makes clover honey. Some people are replacing their grass lawns with clover because it’s easier and cheaper to take care of. White Clover has green stem and leaves with white flowering heads and flowers from May to October. White Clover attracts these bees: Bombus (bumble bees), Andrena (mining bees), Ceratina (small carpenter bees), Osmia (mason bees), Agapostemon and Augochlorella (metallic green sweat bees), Halictus (sweat bees), and Lasioglossum (small sweat bees)."
+    },
+    "vaccinium_angustifolium": {
+      "name": "lowbush blueberry",
+      "sci_name": "Vaccinium angustifolium",
+      "image_file": "Vaccinium_angustifolium.png",
+       "photo_image_file": [
+        {
+          "filename": "PG027.jpg",
+          "attribution": "Courtesy of Katy Chayka, Minnesota Wildflowers.",
+          "caption": "The flowers of the Lowbush Blueberry plant. Photo taken at Wild River State Park, Chisago County in 2008.",
+          "image_link": "https://www.minnesotawildflowers.info/shrub/lowbush-blueberry"
+        },
+        {
+          "filename": "PG028.jpg",
+          "attribution": "Courtesy Peter M. Dziuk, Minnesota Wildflowers.",
+          "caption": "The berries produced after the Lowbush Blueberry flowers are pollinated. Photos taken at Aitkin and Lake counties in 2010.",
+          "image_link": "https://www.minnesotawildflowers.info/shrub/lowbush-blueberry"
+        },
+        {
+          "filename": "PG029.jpg",
+          "attribution": "Courtesy Peter M. Dziuk, Minnesota Wildflowers.",
+          "caption": "The Lowbush Blueberry plant. Photos taken at Aitkin and Lake counties in 2004.",
+          "image_link": "https://www.minnesotawildflowers.info/shrub/lowbush-blueberry"
+        },
+        {
+          "filename": "PG030.jpg",
+          "attribution": "Courtesy Rob Routledge, Sault College, Bugwood.org. Licensed under a Creative Commons Attribution 3.0 License.",
+          "caption": "A red-tailed bumble bee (Bombus ternarius) on a Lowbush Blueberry plant.",
+          "image_link": "https://www.invasive.org/browse/detail.cfm?imgnum=5473074"
+        }
+      ],
+      "blooming_period": [
+        "--05-01/--06-30"
+      ],
+      "description": "Vaccinium angustifolium or, Lowbush Blueberry is a flowering and fruiting plant that is common and widespread on Northern and Northeastern forests. Lowbush Blueberry produces white, bell-shaped flowers that produce edible berries after pollination. The Lowbush Blueberry plant is fire-tolerant and its numbers often increase in an area following a forest fire. While honey bees are often brought to pollinate commercially grown Lowbush Blueberries, sometimes bumble bees are used because of their ability to use sonication to pollinate the flowers and because they can fly in colder, wetter conditions than honey bees.The  Lowbush Blueberry commonly attracts these bees: Andrena (mining bees), Bombus (bumble bees), Osmia (mason bees), Lasioglossum (small sweat bees), and Halictus (sweat bees)."
+    },
+    "helianthus_maximiliani": {
+      "name": "Maximilian Sunflower",
+      "sci_name": "Helianthus maximiliani",
+      "image_file": "",
+       "photo_image_file": [
+        {
+          "filename": "PG031.jpg",
+          "attribution": "Courtesy of Katy Chayka, Minnesota Wildflowers.",
+          "caption": "A Maximilian Sunflower head. Photo taken at Fort Snelling State Park, Hennepin County.",
+          "image_link": "https://www.minnesotawildflowers.info/flower/maximilian-sunflower"
+        },
+        {
+          "filename": "PG032.jpg",
+          "attribution": "Courtesy Peter M. Dziuk, Minnesota Wildflowers.",
+          "caption": "A Maximilian Sunflower plant. Photo taken in 2009.",
+          "image_link": "https://www.minnesotawildflowers.info/flower/maximilian-sunflower"
+        }
+      ],
+      "blooming_period": [
+        "--07-01/--10-31"
+      ],
+      "description": "Helianthus maximiliani or, Maximilian Sunflower is a native prairie plant that grows in dry sunny areas. This flower provides food for deer, birds, and many native pollinators. It also provides habitat for songbirds and insects. The Maximilian Sunflower can grow from 2 to 10 feet tall. It produces yellow flowers from July to October. The Maximilian Sunflower commonly attracts these bees: Bombus (bumble bees), Halictus (sweat bees), Melissodes (long-horned bees), and Lasioglossum (small sweat bees)."
+    }
+  }
+}
