@@ -1,6 +1,9 @@
 name: Validate JSON
 
-on: [push]
+on:
+  push:
+    paths:
+    - '**.json'
 
 jobs:
   # This workflow contains a single job called "build"
