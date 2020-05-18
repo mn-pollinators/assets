@@ -24,7 +24,7 @@
           },
           "image_file": {
             "type": "string",
-            "pattern": "^[0-9a-zA-Z\\._-]+.(png|PNG|jp[e]?g|JP[E]?G)$"
+            "pattern": "^[0-9a-zA-Z\\._-]+.(png|PNG|jp[e]?g|JP[E]?G|tif|tiff)$"
           },
           "photo_image_file": {
             "type": "array",
@@ -34,7 +34,7 @@
               "properties": {
                 "filename": {
                   "type": "string",
-                  "pattern": "^[0-9a-zA-Z\\._-]+.(png|PNG|jp[e]?g|JP[E]?G)$"
+                  "pattern": "^[0-9a-zA-Z\\._-]+.(png|PNG|jp[e]?g|JP[E]?G|tif|tiff)$"
                 },
                 "attribution": {
                   "type": "string"
