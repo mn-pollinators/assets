@@ -40,7 +40,7 @@
       "sci_name": "Colletes simulans",
       "flowers_accepted": "prunus_americana, taraxacum_officinale",
       "image_file": "Colletes_simulans.png",
-       "photo_image_file": [
+      "photo_image_file": [
         {
           "filename": "PB003.jpg",
           "attribution": "Copyright © 2012 Steve Nanz, www.stevenanz.com, BugGuide.net.",
@@ -231,7 +231,7 @@
       "sci_name": "Halictus confusus",
       "flowers_accepted": "asclepias_syriaca, cirsium_discolor, echinacea_angustifolia, helianthus_maximiliani, rubus_occidentalis, solidago_rigida, taracaxum_officinale, trifolium_repens, vaccinium_angustifolium",
       "image_file": "Halictus_confusus.png",
-       "photo_image_file": [
+      "photo_image_file": [
         {
           "filename": "PB014.jpg",
           "attribution": "© Amy Schnebelin, iNaturalist.org (CC BY-NC 4.0).",
@@ -345,7 +345,7 @@
       "sci_name": "Augochlorella aurata",
       "flowers_accepted": "echinacea_angustifolia, rubus_occidentalis, rudbeckia_hirta, solidago_rigida, taraxacum_officinale, trifolium_repens",
       "image_file": "Augochlorella_aurata.png",
-     "photo_image_file": [
+      "photo_image_file": [
         {
           "filename": "PB020.jpg",
           "attribution": "© bob15noble, iNaturalist.org, (CC BY-NC 4.0).",
@@ -383,7 +383,7 @@
       "sci_name": "Augochlora pura",
       "flowers_accepted": "rubus_occidentalis, rudbeckia_hirta, solidago_rigida, taraxacum_officinale",
       "image_file": "Augoclora_pura.png",
-     "photo_image_file": [
+      "photo_image_file": [
         {
           "filename": "PB022.jpg",
           "attribution": "© Jason Michael Crockwell, iNaturalist.org, (CC BY-NC-ND 4.0).",
@@ -503,7 +503,7 @@
       "sci_name": "Hoplitis albifrons",
       "flowers_accepted": "monarda_fistulosa, taraxacum_officinale",
       "image_file": "Hoplitis_alibfrons.png",
-     "photo_image_file": [
+      "photo_image_file": [
         {
           "filename": "PB029.jpeg",
           "attribution": "© Alex Bairstow, iNaturalist.org, (CC BY-NC 4.0).",

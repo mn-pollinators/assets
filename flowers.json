@@ -40,7 +40,7 @@
       "name": "field or pasture thistle",
       "sci_name": "Cirsium discolor",
       "image_file": "Cirsium_discolor.png",
-       "photo_image_file": [
+      "photo_image_file": [
         {
           "filename": "PG005.jpg",
           "attribution": "Courtesy Katy Chayka, Minnesota Wildflowers.",
@@ -63,7 +63,7 @@
       "name": "narrow-leaved purple coneflower",
       "sci_name": "Echinacea angustifolia",
       "image_file": "Echinacea_angustifolia.png",
-       "photo_image_file": [
+      "photo_image_file": [
         {
           "filename": "PG007.jpg",
           "attribution": "Courtesy Peter M. Dziuk, Minnesota Wildflowers.",
@@ -86,7 +86,7 @@
       "name": "black raspberry",
       "sci_name": "Rubus occidentalis",
       "image_file": "Rubus_occidentalis.png",
-       "photo_image_file": [
+      "photo_image_file": [
         {
           "filename": "PG009.jpg",
           "attribution": "Courtesy Peter M. Dziuk, Minnesota Wildflowers.",
@@ -94,10 +94,10 @@
           "image_link": "https://www.minnesotawildflowers.info/shrub/black-raspberry"
         },
         {
-         "filename": "PG010.jpg",
+          "filename": "PG010.jpg",
           "attribution": "Courtesy Peter M. Dziuk, Minnesota Wildflowers.",
           "caption": "Black Raspberry flowers. Photograph taken in Anoka, Fillmore and Ramsey counties, 2015.",
-          "image_link": "https://www.minnesotawildflowers.info/shrub/black-raspberry" 
+          "image_link": "https://www.minnesotawildflowers.info/shrub/black-raspberry"
         }
       ],
       "blooming_period": [
@@ -109,7 +109,7 @@
       "name": "wild bergamot or bee balm",
       "sci_name": "Monarda fistulosa",
       "image_file": "Monarda_fistulosa.png",
-       "photo_image_file": [
+      "photo_image_file": [
         {
           "filename": "PG011.jpg",
           "attribution": "Courtesy Peter M. Dziuk, Minnesota Wildflowers.",
@@ -132,7 +132,7 @@
       "name": "wild plum",
       "sci_name": "Prunus americana",
       "image_file": "Prunus_americana.png",
-       "photo_image_file": [
+      "photo_image_file": [
         {
           "filename": "PG013.jpg",
           "attribution": "Courtesy Peter M. Dziuk, Minnesota Wildflowers.",
@@ -167,7 +167,7 @@
       "name": "black-eyed susan",
       "sci_name": "Rudbeckia hirta",
       "image_file": "Rudbeckia_hirta.png",
-       "photo_image_file": [
+      "photo_image_file": [
         {
           "filename": "PG017.jpg",
           "attribution": "Courtesy Katy Chayka, Minnesota Wildflowers.",
@@ -190,7 +190,7 @@
       "name": "stiff goldenrod",
       "sci_name": "Solidago rigida",
       "image_file": "Solidago_rigida.png",
-       "photo_image_file": [
+      "photo_image_file": [
         {
           "filename": "PG019.jpg",
           "attribution": "Courtesy Katy Chayka, Minnesota Wildflowers.",
@@ -204,10 +204,10 @@
           "image_link": "https://www.minnesotawildflowers.info/flower/stiff-goldenrod"
         },
         {
-         "filename": "PG021.jpg",
+          "filename": "PG021.jpg",
           "attribution": "Courtesy Katy Chayka, Minnesota Wildflowers.",
           "caption": "A pollinator party on a Stiff Goldenrod flowering head. Photos taken in Ramsey, Chisago and McLeod counties in 2013.",
-          "image_link": "https://www.minnesotawildflowers.info/flower/stiff-goldenrod" 
+          "image_link": "https://www.minnesotawildflowers.info/flower/stiff-goldenrod"
         }
       ],
       "blooming_period": [
@@ -219,12 +219,12 @@
       "name": "common dandelion",
       "sci_name": "Taraxacum officinale",
       "image_file": "Taraxacum_officinale.png",
-       "photo_image_file": [
+      "photo_image_file": [
         {
           "filename": "PG022.jpg",
           "attribution": "Courtesy of Peter M. Dziuk, Minnesota Wildflowers.",
           "caption": "Common Dandelion flowering head.",
-          "image_link": "https://www.minnesotawildflowers.info/flower/common-dandelion" 
+          "image_link": "https://www.minnesotawildflowers.info/flower/common-dandelion"
         },
         {
           "filename": "PG023.jpg",
@@ -242,7 +242,7 @@
       "name": "white clover",
       "sci_name": "Trifolium repens",
       "image_file": "Trifolium_repens.png",
-       "photo_image_file": [
+      "photo_image_file": [
         {
           "filename": "PG024.jpg",
           "attribution": "Courtesy of Peter M. Dziuk, Minnesota Wildflowers.",
@@ -271,7 +271,7 @@
       "name": "lowbush blueberry",
       "sci_name": "Vaccinium angustifolium",
       "image_file": "Vaccinium_angustifolium.png",
-       "photo_image_file": [
+      "photo_image_file": [
         {
           "filename": "PG027.jpg",
           "attribution": "Courtesy of Katy Chayka, Minnesota Wildflowers.",
@@ -306,7 +306,7 @@
       "name": "Maximilian Sunflower",
       "sci_name": "Helianthus maximiliani",
       "image_file": "",
-       "photo_image_file": [
+      "photo_image_file": [
         {
           "filename": "PG031.jpg",
           "attribution": "Courtesy of Katy Chayka, Minnesota Wildflowers.",
