@@ -267,7 +267,7 @@
     "lasioglossum_cressonii": {
       "name": "cresson's sweat bee",
       "sci_name": "Lasioglossum cressonii",
-      "flowers_accpeted": "cirsium_discolor, echinacea_angustifolia, helianthus_maximiliani, rubus_occidentalis, prunus_americana, solidago_rigida, taraxacum_officinale, trifolium_repens, vaccinium_angustifolium",
+      "flowers_accepted": "cirsium_discolor, echinacea_angustifolia, helianthus_maximiliani, rubus_occidentalis, prunus_americana, solidago_rigida, taraxacum_officinale, trifolium_repens, vaccinium_angustifolium",
       "image_file": "Lasioglossum_cressonii.png",
       "photo_image_file": [
         {
@@ -621,7 +621,7 @@
     "bombus_affinis": {
       "name": "rusty patch bumble bee",
       "sci_name": "Bombus affinis",
-      "flowers_attracted": "Asclepias_syriaca, Cirsium_discolor, Echinacea_angustifolia, Helianthus_maximiliani, Rubus_occidentalis, Monarda_fistulosa, Prunus_americana, Rudbeckia_hirta, Solidago_rigida, Taraxacum_officinale, Trifolium_repens, Vaccinium_angustifolium",
+      "flowers_accepted": "Asclepias_syriaca, Cirsium_discolor, Echinacea_angustifolia, Helianthus_maximiliani, Rubus_occidentalis, Monarda_fistulosa, Prunus_americana, Rudbeckia_hirta, Solidago_rigida, Taraxacum_officinale, Trifolium_repens, Vaccinium_angustifolium",
       "image_file": "Bombus_affinis.png",
       "photo_image_file": [
         {
