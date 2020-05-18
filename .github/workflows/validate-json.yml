@@ -4,6 +4,7 @@ on:
   push:
     paths:
     - '**.json'
+    - '.github/workflows/validate-json.yml'
 
 jobs:
   # This workflow contains a single job called "build"
