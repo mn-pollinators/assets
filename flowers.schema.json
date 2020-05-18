@@ -1,0 +1,79 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "version": {
+      "type": "string"
+    },
+    "flowers": {
+      "type": "object",
+      "propertyNames": {
+        "pattern": "^[a-zA-Z0-9]([a-zA-Z0-9_])+$"
+      },
+      "additionalProperties": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "sci_name": {
+            "type": "string"
+          },
+          "image_file": {
+            "type": "string"
+          },
+          "photo_image_file": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "filename": {
+                  "type": "string"
+                },
+                "attribution": {
+                  "type": "string"
+                },
+                "caption": {
+                  "type": "string"
+                },
+                "image_link": {
+                  "type": "string",
+                  "format": "uri"
+                }
+              },
+              "required": [
+                "filename",
+                "attribution",
+                "caption",
+                "image_link"
+              ]
+            }
+          },
+          "blooming_period": {
+            "type": "array",
+            "items": [
+              {
+                "type": "string"
+              }
+            ]
+          },
+          "description": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "name",
+          "sci_name",
+          "image_file",
+          "photo_image_file",
+          "blooming_period",
+          "description"
+        ]
+      }
+    }
+  },
+  "required": [
+    "version",
+    "flowers"
+  ]
+}
