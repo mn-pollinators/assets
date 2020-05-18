@@ -1,0 +1,15 @@
+name: Validate JSON
+
+on: [push]
+
+jobs:
+  # This workflow contains a single job called "build"
+  validate-bees:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: Validate JSON
+        uses: orrosenblatt/validate-json-action@0.1.0
+        env:
+          INPUT_SCHEMA: ./bees.schema.json
+          INPUT_JSONS: ./bees.json
