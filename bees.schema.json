@@ -1,0 +1,127 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "version": {
+      "type": "string"
+    },
+    "bees": {
+      "type": "object",
+      "propertyNames": {
+        "pattern": "^[a-zA-Z0-9]([a-zA-Z0-9_])+$"
+      },
+      "additionalProperties": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "sci_name": {
+            "type": "string"
+          },
+          "flowers_accepted": {
+            "type": "string"
+          },
+          "image_file": {
+            "type": "string"
+          },
+          "photo_image_file": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "filename": {
+                  "type": "string"
+                },
+                "attribution": {
+                  "type": "string"
+                },
+                "caption": {
+                  "type": "string"
+                },
+                "image_link": {
+                  "type": "string",
+                  "format": "uri"
+                }
+              },
+              "required": [
+                "filename",
+                "attribution",
+                "caption",
+                "image_link"
+              ]
+            }
+          },
+          "active_period": {
+            "type": "array",
+            "items": [
+              {
+                "type": "string"
+              }
+            ]
+          },
+          "description": {
+            "type": "object",
+            "properties": {
+              "genus": {
+                "type": "string"
+              },
+              "sociality": {
+                "type": "string"
+              },
+              "nesting": {
+                "type": "string"
+              },
+              "pollen_collection": {
+                "type": "string"
+              },
+              "when_are_they_active": {
+                "type": "string"
+              },
+              "how_many_are_there": {
+                "type": "string"
+              },
+              "taking_care_of_the_brood": {
+                "type": "string"
+              },
+              "common_forage_plants": {
+                "type": "string"
+              },
+              "features": {
+                "type": "string"
+              },
+              "did_you_know": {
+                "type": "string"
+              },
+              "the_species_in_our_game": {
+                "type": "string"
+              }
+            },
+            "required": []
+          },
+          "nest_type": {
+            "type": "string"
+          },
+          "sociality": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "name",
+          "sci_name",
+          "flowers_accepted",
+          "image_file",
+          "photo_image_file",
+          "active_period",
+          "description",
+          "nest_type",
+          "sociality"
+        ]
+      }
+    }
+  },
+  "required": [
+    "version",
+    "bees"
+  ]
+}
