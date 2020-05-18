@@ -91,7 +91,7 @@
           "filename": "PG009.jpg",
           "attribution": "Courtesy Peter M. Dziuk, Minnesota Wildflowers.",
           "caption": "Black Raspberry flowers. Photograph taken in Anoka, Fillmore and Ramsey counties, 2015.",
-          "image_link": " https://www.minnesotawildflowers.info/shrub/black-raspberry"
+          "image_link": "https://www.minnesotawildflowers.info/shrub/black-raspberry"
         },
         {
          "filename": "PG010.jpg",
@@ -311,13 +311,13 @@
           "filename": "PG031.jpg",
           "attribution": "Courtesy of Katy Chayka, Minnesota Wildflowers.",
           "caption": "A Maximilian Sunflower head. Photo taken at Fort Snelling State Park, Hennepin County.",
-          "image_link": " https://www.minnesotawildflowers.info/flower/maximilian-sunflower"
+          "image_link": "https://www.minnesotawildflowers.info/flower/maximilian-sunflower"
         },
         {
           "filename": "PG032.jpg",
           "attribution": "Courtesy Peter M. Dziuk, Minnesota Wildflowers.",
           "caption": "A Maximilian Sunflower plant. Photo taken in 2009.",
-          "image_link": " https://www.minnesotawildflowers.info/flower/maximilian-sunflower"
+          "image_link": "https://www.minnesotawildflowers.info/flower/maximilian-sunflower"
         }
       ],
       "blooming_period": [
