@@ -7,7 +7,6 @@ on:
     - '.github/workflows/validate-json.yml'
 
 jobs:
-  # This workflow contains a single job called "build"
   validate-bees:
     runs-on: ubuntu-latest
     steps:
