@@ -4,7 +4,7 @@
     "apis_mellifera": {
       "name": "honey bee",
       "sci_name": "Apis mellifera",
-      "flowers_accepted": "asclepias_syriaca, cirsium_discolor, echinacea_angustifolia, helianthus_maximiliani, rubus_occidentalis, monarda_fistulosa, prunus_americana, rudbeckia_hirta, solidago_rigida, taraxacum_officinale, trifolium_repens, vaccinium_angustifolium",
+      "flowers_accepted": ["asclepias_syriaca", "cirsium_discolor", "echinacea_angustifolia", "helianthus_maximiliani", "rubus_occidentalis", "monarda_fistulosa", "prunus_americana", "rudbeckia_hirta", "solidago_rigida", "taraxacum_officinale", "trifolium_repens", "vaccinium_angustifolium"],
       "image_file": "Apis_mellifera.png",
       "photo_image_file": [
         {
@@ -315,7 +315,7 @@
           "image_link": "https://www.inaturalist.org/photos/58954589"
         },
         {
-          "filename": "PB019.jfif",
+          "filename": "PB019.jpg",
           "attribution": "© C. A. Ivy, iNaturalist.org (CC BY-NC 4.0).",
           "caption": "An Augochloropsis metallica bee visitng a flower. Photo taken November 3, 2014, in AR.",
           "image_link": "https://www.inaturalist.org/photos/10289093"
