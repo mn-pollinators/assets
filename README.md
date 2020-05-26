@@ -12,6 +12,19 @@ There are currently a couple of projects using these resources or related to thi
 - [Pollinator Facts](https://github.com/mn-pollinators/pollinator-facts)
 - [Morris Prairie Pollinator Demonstration Area and Education](https://wcroc.cfans.umn.edu/restoring-native-prairie)
 
+## Code of Conduct
+
+All repositories in the Minnesota Pollinators organization are subject to our [Code of Conduct](https://github.com/mn-pollinators/code-of-conduct/blob/master/CODE_OF_CONDUCT.md).
+
+---
 ## Acknowledgements
 
-Funding for this project was provided by the Minnesota Environment and Natural Resources Trust Fund as recommended by the Legislative-Citizen Commission on Minnesota Resources (LCCMR).
+Funding for this project was provided by the Minnesota Environment and Natural Resources Trust
+Fund as recommended by the [Legislative-Citizen Commission on Minnesota Resources (LCCMR)](https://www.lccmr.leg.mn/).
+
+The Trust Fund is a permanent fund constitutionally established by the citizens of Minnesota to
+assist in the protection, conservation, preservation, and enhancement of the state’s air, water, land,
+fish, wildlife, and other natural resources.
+Currently 40% of net Minnesota State Lottery proceeds are dedicated to growing the Trust Fund
+and ensuring future benefits for Minnesota’s environment and natural resources.
+
