@@ -12,11 +12,16 @@ There are currently a couple of projects using these resources or related to thi
 - [Pollinator Facts](https://github.com/mn-pollinators/pollinator-facts)
 - [Morris Prairie Pollinator Demonstration Area and Education](https://wcroc.cfans.umn.edu/restoring-native-prairie)
 
+## Contributing
+
+If you'd like to contribute, please fork the repository and make changes as
+you'd like. You might want to add bees or flowers for your region following our schemas. Pull requests are warmly welcome.
+
 ## Code of Conduct
 
 All repositories in the Minnesota Pollinators organization are subject to our [Code of Conduct](https://github.com/mn-pollinators/code-of-conduct/blob/master/CODE_OF_CONDUCT.md).
 
----
+
 ## Acknowledgements
 
 Funding for this project was provided by the Minnesota Environment and Natural Resources Trust
