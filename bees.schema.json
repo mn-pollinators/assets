@@ -20,7 +20,7 @@
             "type": "string"
           },
           "flowers_accepted": {
-            "type": "string"
+            "type": "array"
           },
           "image_file": {
             "type": "string",
