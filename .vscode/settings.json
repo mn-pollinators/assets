@@ -1,0 +1,16 @@
+{
+    "json.schemas": [
+        {
+          "fileMatch": [
+            "/bees.json"
+          ],
+          "url": "/bees.schema.json"
+        },
+        {
+          "fileMatch": [
+            "/flowers.json"
+          ],
+          "url": "/flowers.schema.json"
+        }
+    ]
+}
