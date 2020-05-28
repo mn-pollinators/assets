@@ -20,7 +20,11 @@
             "type": "string"
           },
           "flowers_accepted": {
-            "type": "array"
+            "type": "array",
+            "uniqueItems": true,
+            "items": {
+            	"type": "string"
+            }
           },
           "art_file": {
             "type": "string",
