@@ -22,11 +22,11 @@
           "flowers_accepted": {
             "type": "array"
           },
-          "image_file": {
+          "art_file": {
             "type": "string",
             "pattern": "^[0-9a-zA-Z\\._-]+.(png|PNG|jp[e]?g|JP[E]?G|tif[f]?|TIF[F]?)$"
           },
-          "photo_image_file": {
+          "photo_files": {
             "type": "array",
             "uniqueItems": true,
             "items": {
@@ -81,16 +81,16 @@
               "pollen_collection": {
                 "type": "string"
               },
-              "when_are_they_active": {
+              "activity": {
                 "type": "string"
               },
-              "how_many_are_there": {
+              "species": {
                 "type": "string"
               },
-              "taking_care_of_the_brood": {
+              "brood": {
                 "type": "string"
               },
-              "common_forage_plants": {
+              "forage": {
                 "type": "string"
               },
               "features": {
@@ -99,7 +99,7 @@
               "did_you_know": {
                 "type": "string"
               },
-              "the_species_in_our_game": {
+              "chosen_bee": {
                 "type": "string"
               }
             },
