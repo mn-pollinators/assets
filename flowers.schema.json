@@ -19,11 +19,11 @@
           "sci_name": {
             "type": "string"
           },
-          "image_file": {
+          "art_file": {
             "type": "string",
             "pattern": "^[0-9a-zA-Z\\._-]+.(png|PNG|jp[e]?g|JP[E]?G|tif[f]?|TIF[F]?)$"
           },
-          "photo_image_file": {
+          "photo_files": {
             "type": "array",
             "uniqueItems": true,
             "items": {
@@ -70,8 +70,8 @@
         "required": [
           "name",
           "sci_name",
-          "image_file",
-          "photo_image_file",
+          "art_file",
+          "photo_files",
           "blooming_period",
           "description"
         ],
