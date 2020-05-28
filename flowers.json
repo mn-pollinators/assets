@@ -473,6 +473,46 @@
           }
         ],
         "description": "Zizia aurea or Golden Alexanders is a perennial with green stalks and leaves with clusters of yellow to orange flowers. Golden alexanders grows in a wide variety of soil types and blooms from mid-April to mid-June. These plants attract many flower-visiting insects and most visit for the nectar. Golden alexanders commonly attracts these bees: Ceratina (small carpenter bees), Lasioglossum (small sweat bees), Hylaeus (yellow-faced bees), Andrena (mining bees), Bombus (bumble bees), and Osmia (mason bees)."
+      },
+      "coreopsis_palmata": {
+        "name": "Prairie Coreopsis",
+        "sci_name": "Coreopsis palmata",
+        "image_file": "Coreopsis_palmata.png",
+        "photo_image_file": [
+          {
+            "filename": "PG035.jpg",
+            "attribution": "Courtesy Katy Chayka, Minnesota Wildflowers.",
+            "caption": "Prairie Coreopsis flower heads. Photo taken in 2008 at Long Lake Regional Park, Ramsay County, Minnesota.",
+            "image_link": "https://www.minnesotawildflowers.info/flower/prairie-coreopsis"
+          },
+          {
+            "filename": "PG036.jpg",
+            "attribution": "Courtesy Peter M Dziuk, Minnesota Wildflowers.",
+            "caption": "A cluster of Prairie Coreopsis plants. Photo taken in 2011.",
+            "image_link": "https://www.minnesotawildflowers.info/flower/prairie-coreopsis"
+          }
+        ],
+        "description": "Coreopsis palmata or Prairie Coreopsis is a short perennial with yellow-orange flower heads and dark green leaves. Prairie coreopsis grows in sunny areas and prairie landscapes and flowers from June to August. The open flower heads provide access to pollen and nectar for all bees, especially short-tongued bees. Prairie coreopsis also attracts butterflies, moths, beetles, wasps, syrphid flies, and ants. Prairie coreopsis commonly attracts these bees: Ceratina (small carpenter bees), Megachile (leafcutter bees), Heraides (small resin bees), Melissodes (long-horned bees), and Coelioxys (cuckoo bees)."
+      },
+        "achillea_millefolium": {
+          "name": "Common Yarrow",
+          "sci_name": "Achillea millefolium",
+          "image_file": "Achillea_millefolium.png",
+          "photo_image_file": [
+            {
+              "filename": "PG033.jpg",
+              "attribution": "Courtesy Peter M Dziuk, Minnesota Wildflowers.",
+              "caption": "A cluster of Common Yarrow flowers. Photo taken in 2004 in Anoka or Lake County.",
+              "image_link": "https://www.minnesotawildflowers.info/flower/common-yarrow"
+            },
+            {
+              "filename": "PG034.jpeg",
+              "attribution": "© kttharp, iNaturalist.org, (CC BY-NC 4.0).",
+              "caption": "The Common Yarrow plant. Photo taken May 12, 2020 in Austin TX.",
+              "image_link": "https://www.inaturalist.org/photos/73352070"
+            }
+          ],
+          "description": "Achillea millefolium or Common Yarrow is an upright perennial that grows in part shade, fields, or prairie and flowers from mid June to September. It has white flowers and green, fern-like leaves. These flowers are self-incompatible and rely on insects for pollination. Common yarrow has been used for a variety of ailments including wounds, burns, fevers, colds, and headaches. Common yarrow commonly attracts these bees: Lasioglossum (small sweat bees), Ceratina (small carpenter bees), Megachile (leafcutter bees), Andrena (mining bees), and Nomada (cuckoo bees)."
       }
   }
 }
