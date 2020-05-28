@@ -5,27 +5,27 @@
       "name": "honey bee",
       "sci_name": "Apis mellifera",
       "flowers_accepted": [
-        "Asclepias_syriaca", 
-        "Cirsium_discolor", 
-        "Echinacea_angustifolia", 
-        "Helianthus_maximiliani", 
-        "Rubus_occidentalis", 
-        "Monarda_fistulosa", 
-        "Prunus_americana", 
-        "Rudbeckia_hirta", 
-        "Solidago_rigida", 
-        "Taraxacum_officinale", 
-        "Trifolium_repens", 
-        "Vaccinium_angustifolium", 
-        "Achillea_millefolium", 
-        "Coreopsis_palmata", 
-        "Dalea_purpurea", 
-        "Eutrochium_maculatum", 
-        "Liatris_aspera", 
-        "Symphyotrichum_oolentangiense", 
-        "Verbena_stricta", 
-        "Veronicastrum_virginicum", 
-        "Zizia_aurea"
+        "asclepias_syriaca", 
+        "cirsium_discolor", 
+        "echinacea_angustifolia", 
+        "helianthus_maximiliani", 
+        "rubus_occidentalis", 
+        "monarda_fistulosa", 
+        "prunus_americana", 
+        "rudbeckia_hirta", 
+        "solidago_rigida", 
+        "taraxacum_officinale", 
+        "trifolium_repens", 
+        "vaccinium_angustifolium", 
+        "achillea_millefolium", 
+        "coreopsis_palmata", 
+        "dalea_purpurea", 
+        "eutrochium_maculatum", 
+        "liatris_aspera", 
+        "symphyotrichum_oolentangiense", 
+        "verbena_stricta", 
+        "veronicastrum_virginicum", 
+        "zizia_aurea"
       ],
       "image_file": "Apis_mellifera.png",
       "photo_image_file": [
@@ -61,8 +61,8 @@
       "name": "spine-shouldered cellophane bee",
       "sci_name": "Colletes simulans",
       "flowers_accepted": [
-        "Prunus_americana", 
-        "Taraxacum_officinale"
+        "prunus_americana", 
+        "taraxacum_officinale"
       ],
       "image_file": "Colletes_simulans.png",
       "photo_image_file": [
@@ -102,12 +102,12 @@
       "name": "modest masked bee",
       "sci_name": "Hylaeus modestus",
       "flowers_accepted": [
-        "Echinacea_angustifolia", 
-        "Solidago_rigida", 
-        "Taraxacum_officinale", 
-        "Asclepias_syriaca", 
-        "Veronicastrum_virginicum", 
-        "Zizia_aurea"
+        "echinacea_angustifolia", 
+        "solidago_rigida", 
+        "taraxacum_officinale", 
+        "asclepias_syriaca", 
+        "veronicastrum_virginicum", 
+        "zizia_aurea"
       ],
       "image_file": "Hylaeus_modestus.png",
       "photo_image_file": [
@@ -147,18 +147,18 @@
       "name": "carolina miner bee",
       "sci_name": "Andrena carolina",
       "flowers_accepted": [
-        "Echinacea_angustifolia", 
-        "Rubus_occidentalis", 
-        "Prunus_americana", 
-        "Solidago_rigida", 
-        "Taraxacum_officinale", 
-        "Trifolium_repens", 
-        "Vaccinium_angustifolium", 
-        "Asclepias_syriaca", 
-        "Helianthus_maximiliani", 
-        "Achillea_millefolium", 
-        "Symphyotrichum_oolentangiense", 
-        "Zizia_aurea"
+        "echinacea_angustifolia", 
+        "rubus_occidentalis", 
+        "prunus_americana", 
+        "solidago_rigida", 
+        "taraxacum_officinale", 
+        "trifolium_repens", 
+        "vaccinium_angustifolium", 
+        "asclepias_syriaca", 
+        "helianthus_maximiliani", 
+        "achillea_millefolium", 
+        "symphyotrichum_oolentangiense", 
+        "zizia_aurea"
       ], 
       "image_file": "andrena_carolina.png",
       "photo_image_file": [
@@ -199,10 +199,10 @@
       "name": "colorado miner bee",
       "sci_name": "Calliopsis coloradensis",
       "flowers_accepted": [
-        "Rubus_occidentalis", 
-        "Taraxacum_officinale", 
-        "Solidago_rigida", 
-        "Verbena_stricta"
+        "rubus_occidentalis", 
+        "taraxacum_officinale", 
+        "solidago_rigida", 
+        "verbena_stricta"
       ],
       "image_file": "calliopsis_coloradensis.png",
       "photo_image_file": [
@@ -242,19 +242,19 @@
       "name": "bicolored striped sweat bee",
       "sci_name": "Agapostemon virescens",
       "flowers_accepted": [
-        "Rubus_occidentalis", 
-        "Cirsium_discolor", 
-        "Echinacea_angustifolia", 
-        "Monarda_fistulosa", 
-        "Rudbeckia_hirta", 
-        "Solidago_rigida", 
-        "Taraxacum_officinale", 
-        "Trifolium_repens", 
-        "Dalea_purpurea", 
-        "Eutrochium_maculatum", 
-        "Liatris_aspera", 
-        "Symphyotrichum_oolentangiense", 
-        "Verbena_stricta"
+        "rubus_occidentalis", 
+        "cirsium_discolor", 
+        "echinacea_angustifolia", 
+        "monarda_fistulosa", 
+        "rudbeckia_hirta", 
+        "solidago_rigida", 
+        "taraxacum_officinale", 
+        "drifolium_repens", 
+        "dalea_purpurea", 
+        "eutrochium_maculatum", 
+        "liatris_aspera", 
+        "symphyotrichum_oolentangiense", 
+        "verbena_stricta"
       ],
       "image_file": "Agapostemon_virescens.png",
       "photo_image_file": [
@@ -294,18 +294,18 @@
       "name": "confusing furrow bee",
       "sci_name": "Halictus confusus",
       "flowers_accepted": [
-        "Asclepias_syriaca", 
-        "Cirsium_discolor", 
-        "Echinacea_angustifolia", 
-        "Helianthus_maximiliani", 
-        "Rubus_occidentalis", 
-        "Solidago_rigida", 
-        "Taracaxum_officinale", 
-        "Trifolium_repens", 
-        "Vaccinium_angustifolium", 
-        "Dalea_purpurea", 
-        "Symphyotrichum_oolentangiense", 
-        "Veronicastrum_virginicum"
+        "asclepias_syriaca", 
+        "cirsium_discolor", 
+        "echinacea_angustifolia", 
+        "helianthus_maximiliani", 
+        "rubus_occidentalis", 
+        "solidago_rigida", 
+        "taracaxum_officinale", 
+        "trifolium_repens", 
+        "vaccinium_angustifolium", 
+        "dalea_purpurea", 
+        "symphyotrichum_oolentangiense", 
+        "veronicastrum_virginicum"
       ],
       "image_file": "Halictus_confusus.png",
       "photo_image_file": [
@@ -345,21 +345,21 @@
       "name": "cresson's sweat bee",
       "sci_name": "Lasioglossum cressonii",
       "flowers_accepted": [
-        "Cirsium_discolor", 
-        "Echinacea_angustifolia", 
-        "Helianthus_maximiliani", 
-        "Rubus_occidentalis", 
-        "Prunus_americana", 
-        "Solidago_rigida", 
-        "Taraxacum_officinale", 
-        "Trifolium_repens", 
-        "Vaccinium_angustifolium", 
-        "Achillea_millefolium", 
-        "Dalea_purpurea", 
-        "Liatris_aspera", 
-        "Symphyotrichum_oolentangiense", 
-        "Veronicastrum_virginicum", 
-        "Zizia_aurea"
+        "cirsium_discolor", 
+        "echinacea_angustifolia", 
+        "helianthus_maximiliani", 
+        "rubus_occidentalis", 
+        "prunus_americana", 
+        "solidago_rigida", 
+        "taraxacum_officinale", 
+        "trifolium_repens", 
+        "vaccinium_angustifolium", 
+        "achillea_millefolium", 
+        "dalea_purpurea", 
+        "liatris_aspera", 
+        "symphyotrichum_oolentangiense", 
+        "veronicastrum_virginicum", 
+        "zizia_aurea"
       ],
       "image_file": "Lasioglossum_cressonii.png",
       "photo_image_file": [
@@ -399,11 +399,11 @@
       "name": "metallic green sweat bee",
       "sci_name": "Augochloropsis metallica",
       "flowers_accepted": [
-        "Rubus_occidentalis", 
-        "Asclepias_syriaca", 
-        "Solidago_rigida", 
-        "Taraxacum_officinale", 
-        "Symphyotrichum_oolentangiense"
+        "rubus_occidentalis", 
+        "asclepias_syriaca", 
+        "solidago_rigida", 
+        "taraxacum_officinale", 
+        "symphyotrichum_oolentangiense"
       ],
       "image_file": "Augochloropsis_metallica.png",
       "photo_image_file": [
@@ -443,14 +443,14 @@
       "name": "golden sweat bee",
       "sci_name": "Augochlorella aurata",
       "flowers_accepted": [
-        "Echinacea_angustifolia", 
-        "Rubus_occidentalis", 
-        "Rudbeckia_hirta", 
-        "Solidago_rigida", 
-        "Taraxacum_officinale", 
-        "Trifolium_repens", 
-        "Dalea_purpurea", 
-        "Symphyotrichum_oolentangiense"
+        "echinacea_angustifolia", 
+        "rubus_occidentalis", 
+        "rudbeckia_hirta", 
+        "solidago_rigida", 
+        "taraxacum_officinale", 
+        "trifolium_repens", 
+        "dalea_purpurea", 
+        "symphyotrichum_oolentangiense"
       ],
       "image_file": "Augochlorella_aurata.png",
       "photo_image_file": [
@@ -490,10 +490,10 @@
       "name": "pure green sweat bee",
       "sci_name": "Augochlora pura",
       "flowers_accepted": [
-        "Rubus_occidentalis", 
-        "Rudbeckia_hirta", 
-        "Solidago_rigida", 
-        "Taraxacum_officinale"
+        "rubus_occidentalis", 
+        "rudbeckia_hirta", 
+        "solidago_rigida", 
+        "taraxacum_officinale"
       ],
       "image_file": "Augoclora_pura.png",
       "photo_image_file": [
@@ -533,12 +533,12 @@
       "name": "distinct mason bee",
       "sci_name": "Osmia distincta",
       "flowers_accepted": [
-        "Rubus_occidentalis", 
-        "Prunus_americana", 
-        "Taraxacum_officinale", 
-        "Trifolium_repens", 
-        "Vaccinium_angustifolium", 
-        "Zizia_aurea"
+        "rubus_occidentalis", 
+        "prunus_americana", 
+        "taraxacum_officinale", 
+        "trifolium_repens", 
+        "vaccinium_angustifolium", 
+        "zizia_aurea"
       ],
       "image_file": "Osmia_distincta.png",
       "photo_image_file": [
@@ -578,20 +578,20 @@
       "name": "pugnacious leafcutter bee",
       "sci_name": "Megachile pugnata",
       "flowers_accepted": [
-        "Asclepias_syriaca", 
-        "Cirsium_discolor", 
-        "Echinacea_angustifolia", 
-        "Rubus_occidentalis", 
-        "Monarda_fistulosa", 
-        "Rudbeckia_hirta", 
-        "Solidago_rigida", 
-        "Taraxacum_officinale", 
-        "Achillea_millefolium", 
-        "Coreopsis_palmata", 
-        "Eutrochium_maculatum", 
-        "Liatris_aspera", 
-        "Verbena_stricta", 
-        "Veronicastrum_virginicum"
+        "asclepias_syriaca", 
+        "cirsium_discolor", 
+        "echinacea_angustifolia", 
+        "rubus_occidentalis", 
+        "monarda_fistulosa", 
+        "rudbeckia_hirta", 
+        "solidago_rigida", 
+        "taraxacum_officinale", 
+        "achillea_millefolium", 
+        "coreopsis_palmata", 
+        "eutrochium_maculatum", 
+        "liatris_aspera", 
+        "verbena_stricta", 
+        "veronicastrum_virginicum"
       ],
       "image_file": "Megachile_pugnata.png",
       "photo_image_file": [
@@ -637,8 +637,8 @@
       "name": "mason bee",
       "sci_name": "Hoplitis albifrons",
       "flowers_accepted": [
-        "Monarda_fistulosa", 
-        "Taraxacum_officinale"
+        "monarda_fistulosa", 
+        "taraxacum_officinale"
       ],
       "image_file": "Hoplitis_alibfrons.png",
       "photo_image_file": [
@@ -684,9 +684,9 @@
       "name": "small resin bee",
       "sci_name": "Heriades variolosa",
       "flowers_accepted": [
-        "Echinacea_angustifolia", 
-        "Taraxacum_officinale", 
-        "Coreopsis_palmata"
+        "echinacea_angustifolia", 
+        "taraxacum_officinale", 
+        "coreopsis_palmata"
       ],
       "image_file": "Heriades_variolosa.png",
       "photo_image_file": [
@@ -726,9 +726,9 @@
       "name": "wool carder bee",
       "sci_name": "Anthidium manicatum",
       "flowers_accepted": [
-        "Echinacea_angustifolia", 
-        "Taraxacum_officinale", 
-        "Solidago_rigida"
+        "echinacea_angustifolia", 
+        "taraxacum_officinale", 
+        "solidago_rigida"
       ],
       "image_file": "Anthidium_manicatum.png",
       "photo_image_file": [
@@ -768,26 +768,26 @@
       "name": "rusty patch bumble bee",
       "sci_name": "Bombus affinis",
       "flowers_accepted": [
-        "Asclepias_syriaca", 
-        "Cirsium_discolor", 
-        "Echinacea_angustifolia", 
-        "Helianthus_maximiliani", 
-        "Rubus_occidentalis", 
-        "Monarda_fistulosa", 
-        "Prunus_americana", 
-        "Rudbeckia_hirta", 
-        "Solidago_rigida", 
-        "Taraxacum_officinale", 
-        "Trifolium_repens", 
-        "Vaccinium_angustifolium", 
-        "Achillea_millefolium", 
-        "Coreopsis_palmata", 
-        "Dalea_purpurea", 
-        "Eutrochium_maculatum", 
-        "Liatris_aspera", 
-        "Symphyotrichum_oolentangiense", 
-        "Veronicastrum_virginicum", 
-        "Zizia_aurea"
+        "asclepias_syriaca", 
+        "cirsium_discolor", 
+        "echinacea_angustifolia", 
+        "helianthus_maximiliani", 
+        "rubus_occidentalis", 
+        "monarda_fistulosa", 
+        "prunus_americana", 
+        "rudbeckia_hirta", 
+        "solidago_rigida", 
+        "taraxacum_officinale", 
+        "trifolium_repens", 
+        "vaccinium_angustifolium", 
+        "achillea_millefolium", 
+        "coreopsis_palmata", 
+        "dalea_purpurea", 
+        "eutrochium_maculatum", 
+        "liatris_aspera", 
+        "symphyotrichum_oolentangiense", 
+        "veronicastrum_virginicum", 
+        "zizia_aurea"
       ],
       "image_file": "Bombus_affinis.png",
       "photo_image_file": [
@@ -839,10 +839,10 @@
       "name": "bumble-bee-mimic digger bee",
       "sci_name": "Anthophora bomboides",
       "flowers_accepted": [
-        "Monarda_fistulosa", 
-        "Taraxacum_officinale", 
-        "Asclepias_syriaca", 
-        "Cirsium_discolor"
+        "monarda_fistulosa", 
+        "taraxacum_officinale", 
+        "asclepias_syriaca", 
+        "cirsium_discolor"
       ],
       "image_file": "Anthophora_bomboides.png",
       "photo_image_file": [
@@ -882,18 +882,18 @@
       "name": "valiant long-horned bee",
       "sci_name": "Melissodes illatus",
       "flowers_accepted": [
-        "Cirsium_discolor", 
-        "Echinacea_angustifolia", 
-        "Helianthus_maximiliani", 
-        "Monarda_fistulosa", 
-        "Rudbeckia_hirta", 
-        "Solidago_rigida", 
-        "Taraxacum_officinale", 
-        "Coreopsis_palmata", 
-        "Eutrochium_maculatum", 
-        "Symphyotrichum_oolentangiense", 
-        "Verbena_stricta", 
-        "Veronicastrum_virginicum"
+        "cirsium_discolor", 
+        "echinacea_angustifolia", 
+        "helianthus_maximiliani", 
+        "monarda_fistulosa", 
+        "rudbeckia_hirta", 
+        "solidago_rigida", 
+        "taraxacum_officinale", 
+        "coreopsis_palmata", 
+        "eutrochium_maculatum", 
+        "symphyotrichum_oolentangiense", 
+        "verbena_stricta", 
+        "veronicastrum_virginicum"
       ],
       "image_file": "Mellissodes_illatus.png",
       "photo_image_file": [
@@ -933,16 +933,16 @@
       "name": "spurred carpenter bee",
       "sci_name": "Ceratina calcarata",
       "flowers_accepted": [
-        "Echinacea_angustifolia", 
-        "Solidago_rigida", 
-        "Taraxacum_officinale", 
-        "Trifolium_repens", 
-        "Asclepias_syriaca", 
-        "Achillea_millefolium", 
-        "Coreopsis_palmata", 
-        "Liatris_aspera", 
-        "Symphyotrichum_oolentangiense", 
-        "Zizia_aurea"
+        "echinacea_angustifolia", 
+        "solidago_rigida", 
+        "taraxacum_officinale", 
+        "trifolium_repens", 
+        "asclepias_syriaca", 
+        "achillea_millefolium", 
+        "coreopsis_palmata", 
+        "liatris_aspera", 
+        "symphyotrichum_oolentangiense", 
+        "zizia_aurea"
       ],
       "image_file": "Ceratina_calcarata.png",
       "photo_image_file": [
@@ -982,12 +982,12 @@
       "name": "eastern carpenter bee",
       "sci_name": "Xylocopa virginica",
       "flowers_accepted": [
-        "Echinacea_angustifolia", 
-        "Taraxacum_officinale", 
-        "Asclepias_syriaca", 
-        "Cirsium_discolor", 
-        "Monarda_fistulosa", 
-        "Solidago_rigida"
+        "echinacea_angustifolia", 
+        "taraxacum_officinale", 
+        "asclepias_syriaca", 
+        "cirsium_discolor", 
+        "monarda_fistulosa", 
+        "solidago_rigida"
       ],
       "image_file": "Xylocopa_virginica.png",
       "photo_image_file": [
