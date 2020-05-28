@@ -6,7 +6,7 @@ and help people learn about pollinators and the native prairie plants that suppo
 
 ## Related Projects
 
-There are currently a couple of projects using these resources or related to this project in some way:
+There are currently a few projects using these resources or related to this project in some way:
 
 - [Buzz About](https://github.com/mn-pollinators/buzz-about)
 - [Pollinator Facts](https://github.com/mn-pollinators/pollinator-facts)
@@ -32,4 +32,3 @@ assist in the protection, conservation, preservation, and enhancement of the sta
 fish, wildlife, and other natural resources.
 Currently 40% of net Minnesota State Lottery proceeds are dedicated to growing the Trust Fund
 and ensuring future benefits for Minnesota’s environment and natural resources.
-
