@@ -372,6 +372,9 @@
             "image_link": "https://www.inaturalist.org/photos/72619281"
           }
         ],
+        "blooming_period": [
+          "--07-01/--09-01"
+        ],
         "description": "Eutrochium maculatum or Spotted Joe Pye Weed is a perennial with large pink flower heads and maroon stems with spots and blooms from July to September. It is common in sites with moist soil. Besides attracting bees, Spotted Joe pye weed attracts a number of butterfly species and nocturnal moths. Most bees visit the flowers for nectar and sometimes pollen. Spotted Joe pye weed commonly attracts these bees: Bombus (bumble bees), Megachile (leafcutter bees), Coelioxys (cuckoo bees), Agapostemon (metallic green sweat bees), and Melissodes (long-horned bees)."
       },
       "liatris_aspera": {
@@ -391,6 +394,9 @@
             "caption": "A Rough Blazing Star plant with a visiting bumble bee. Photo taken in 2015 at Mound Prairie Township, MN.",
             "image_link": "https://www.inaturalist.org/photos/53449608"
           }
+        ],
+        "blooming_period": [
+          "--07-01/--09-01"
         ],
         "description": "Liatris aspera or Rough Blazing Star is a native perennial plant with many button-like pink or purple flowers along a flowering stalk and blooms from July to September. The flowers attract a number of bees, butterflies, and hummingbirds in late summer. Rough blazing star commonly attracts these bees: Bombus (bumble bees), Ceratina (small carpenter bees), Megachile (leafcutter bees), Agapostemon (metallic green sweat bees), and Lasioglossum (small sweat bees)."
       },
@@ -412,6 +418,9 @@
             "image_link": "https://www.inaturalist.org/photos/53433850"
           }
         ],
+        "blooming_period": [
+          "--08-15/--10-01"
+        ],
         "description": "Symphyotrichum oolentangiense or, Sky Blue Aster is a common dry-prairie plant with light blue or violet flowers and yellow to orange disc florets. Sky blue aster grows in part-shade to sunny areas and blooms from mid-August to October. Sky blue aster attracts these bees: Agapostemon and Augochlorella and Augochloropsis (metallic green sweat bees), Melissodes (long-horned bees), Halictus (sweat bees), Lasioglossum (small sweat bees), Ceratina (small carpenter bees), Andrena (mining bees), and Bombus (bumble bees)."
       },
       "verbena_stricta": {
@@ -431,6 +440,9 @@
             "caption": "Clumps of Hoary Vervain plants. Photo taken in 2010 in Riley, KS",
             "image_link": "https://www.inaturalist.org/photos/58278122"
           }
+        ],
+        "blooming_period": [
+          "--07-01/--09-01"
         ],
         "description": "Verbena stricta or Hoary Vervain is a narrow upright perennial with long flower spikes that have blue or purple flower petals. Hoary vervain can often be found in compacted sandy soil or in a prairie or prairie restoration site. Flowers bloom from July to September and develop from the bottom up, providing a longer supply of nectar and pollen for visiting insects. Hoary vervain commonly attracts these bees: Agapostemon (metallic green sweat bees), Megachile (leafcutter bees), Melissodes (long-horned bees), Calliopsis (mining bees), Bombus (bumble bees), and Nomada, Coelioxys, Epeolus, and Triepeolus (cuckoo bees)."
       },
@@ -452,6 +464,9 @@
             "image_link": "https://www.inaturalist.org/photos/48099122"
           }
         ],
+        "blooming_period": [
+          "--07-01/--09-01"
+        ],
         "description": "Veronicastrum virginicum or Culver’s Root is a perennial flower with tall stalks and small white flowers arranged in spikes. Individual flowers bloom for over a month, attracting bees, wasps, and soldier beetles. Culver’s root blooms from July to September and grows in woodland edge or prairie habitats. Culver’s root commonly attracts these bees: Lasioglossum (small sweat bees), Hylaeus (yellow-faced bees), Halictus (sweat bees), Megachile (leafcutter bees), Melissodes (long-horned bees), and Bombus (bumble bees)."
       },
       "zizia_aurea": {
@@ -471,6 +486,9 @@
             "caption": "The flower heads of the Golden Alexanders plant. Photo taken in 2020 in North Salem, NY.",
             "image_link": "https://www.inaturalist.org/photos/73230163"
           }
+        ],
+        "blooming_period": [
+          "--04-15/--06-15"
         ],
         "description": "Zizia aurea or Golden Alexanders is a perennial with green stalks and leaves with clusters of yellow to orange flowers. Golden alexanders grows in a wide variety of soil types and blooms from mid-April to mid-June. These plants attract many flower-visiting insects and most visit for the nectar. Golden alexanders commonly attracts these bees: Ceratina (small carpenter bees), Lasioglossum (small sweat bees), Hylaeus (yellow-faced bees), Andrena (mining bees), Bombus (bumble bees), and Osmia (mason bees)."
       },
@@ -492,6 +510,9 @@
             "image_link": "https://www.minnesotawildflowers.info/flower/prairie-coreopsis"
           }
         ],
+        "blooming_period": [
+          "--06-01/--08-01"
+        ],
         "description": "Coreopsis palmata or Prairie Coreopsis is a short perennial with yellow-orange flower heads and dark green leaves. Prairie coreopsis grows in sunny areas and prairie landscapes and flowers from June to August. The open flower heads provide access to pollen and nectar for all bees, especially short-tongued bees. Prairie coreopsis also attracts butterflies, moths, beetles, wasps, syrphid flies, and ants. Prairie coreopsis commonly attracts these bees: Ceratina (small carpenter bees), Megachile (leafcutter bees), Heraides (small resin bees), Melissodes (long-horned bees), and Coelioxys (cuckoo bees)."
       },
         "achillea_millefolium": {
@@ -511,6 +532,9 @@
               "caption": "The Common Yarrow plant. Photo taken May 12, 2020 in Austin TX.",
               "image_link": "https://www.inaturalist.org/photos/73352070"
             }
+          ],
+          "blooming_period": [
+            "--06-15/--09-01"
           ],
           "description": "Achillea millefolium or Common Yarrow is an upright perennial that grows in part shade, fields, or prairie and flowers from mid June to September. It has white flowers and green, fern-like leaves. These flowers are self-incompatible and rely on insects for pollination. Common yarrow has been used for a variety of ailments including wounds, burns, fevers, colds, and headaches. Common yarrow commonly attracts these bees: Lasioglossum (small sweat bees), Ceratina (small carpenter bees), Megachile (leafcutter bees), Andrena (mining bees), and Nomada (cuckoo bees)."
       }
