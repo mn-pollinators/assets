@@ -1,0 +1,109 @@
+{
+    "version": "1.0.1",
+    "nests": {
+      "cavity": {
+        "name": "Cavity Nest",
+        "art_file": "cavity.png",
+        "photo_files": [
+          {
+            "filename": "PN001.jpeg",
+            "attribution": "(c) Jenny Apple, some rights reserved (CC BY-NC 4.0).",
+            "caption": "A Mason bee crawling from a man-made cavity nest. Photo taken in April 2020 in New York.",
+            "image_link": "https://www.inaturalist.org/photos/70412853"
+          },
+          {
+            "filename": "PN002.jpg",
+            "attribution": "(c) nature4lzw, some rights reserved (CC BY-NC 4.0).",
+            "caption": "A Megachile bee entering its cavity nest. Photo taken in 2019 in San Diego, CA.",
+            "image_link": "https://www.inaturalist.org/photos/72803236"
+          }
+        ],
+        "description": "Some bees make their nests in small holes, or cavities, of standing dead trees or other plants. Some of the cavities are made by bees, but often they are made by the weather or other animals like birds or beetles."
+      },
+      "pithy_stem": {
+        "name": "Pithy Stem Nest",
+        "art_file": "pithy_stem.png",
+        "photo_files": [
+          {
+            "filename": "PN008.jpg",
+            "attribution": "(c) frank007, some rights reserved (CC BY-NC 4.0).",
+            "caption": "A small mason bee burrowing into a pithy stem or dead branch.",
+            "image_link": "https://www.inaturalist.org/photos/74335121"
+          }
+        ],
+        "description": "Some bees burrow into soft pithy stems of plants to make their nests."
+      },
+      "ground_bare": {
+        "name": "Soil or Bare Ground Nest",
+        "art_file": "ground_bare.png",
+        "photo_files": [
+          {
+            "filename": "PN003.jpg",
+            "attribution": "(c) pleistocene, some rights reserved (CC BY-NC 4.0).",
+            "caption": "A few Digger bee nests on the bare ground. Photo taken in 2020 in Agoura Hills, CA.",
+            "image_link": "https://www.inaturalist.org/photos/75495795"
+          },
+          {
+            "filename": "PN004.jpg",
+            "attribution": "(c) kendalloei, some rights reserved (CC BY).",
+            "caption": "A Digger bee poking its head out of its nest. Photo taken in 2020 in Walnut Creek, CA.",
+            "image_link": "https://www.inaturalist.org/photos/64185333"
+          }
+        ],
+        "description": "Most bee species live below ground. Different bees like different kinds of soil. Some bees like to make their nest on soil that has no grass or plants growing on it."
+      },
+      "ground_grass": {
+        "name": "Grass-Covered Ground Nest",
+        "art_file": "ground_grass.png",
+        "photo_files": [
+          {
+            "filename": "PN005.jpg",
+            "attribution": "(c) Whitney Cranshaw, Colorado State University, Bugwood.org (CC-BY 3.0).",
+            "caption": "An Andrena bee nest hole.",
+            "image_link": "https://www.forestryimages.org/browse/detail.cfm?imgnum=5210087"
+          }
+        ],
+        "description": "Most bee species live below ground. Different bees like different kinds of soil. Some bees like to make their nest on soil that has grass or other plants growing on it."
+      },
+      "rotting_wood": {
+        "name": "Rotting Wood Nest",
+        "art_file": "rotting_wood.png",
+        "photo_files": [
+          {
+            "filename": "PN006.jpg",
+            "attribution": "(c) Spencer Hardy, some rights reserved (CC BY-NC 4.0).",
+            "caption": "An Augochlora bee crawling out of its nest in a rotting log. Photo taken in 2020 in Ferrisburgh, VT.",
+            "image_link": "https://www.inaturalist.org/photos/72847444"
+          }
+        ],
+        "description": "Nests in rotting wood are made in the small holes, or cavities, in the soft wood."
+      },
+      "bumble_bee_nest": {
+        "name": "Bumble Bee Nest",
+        "art_file": "bumble_bee_nest.png",
+        "photo_files": [
+          {
+            "filename": "PN007.jpg",
+            "attribution": "(c) Phelyan Sanjoin, Wikimedia Commons, (CC BY 2.0).",
+            "caption": "A bumble bee nest in a thatch of grass.",
+            "image_link": "https://commons.wikimedia.org/wiki/File:Bumblebee_nest.jpg"
+          }
+        ],
+        "description": "Bumble bees often make their nest below ground or in a rodent hole. The first bumble bee of the season (called gynes) searches for the right nest in spring. When they find the right place, they create a wax nectar pot to store nectar. The gynes also gather pollen to later feed larvae. Gynes make a large pollen ball, moisten it with nectar, lay multiple fertilized eggs on the pollen ball, then cover it with wax. After a period of incubation, the eggs hatch and feed on the pollen ball."
+      },
+      "honey_bee_house": {
+        "name": "Honey Bee House",
+        "art_file": "honey_bee_house.png",
+        "photo_files": [
+          {
+            "filename": "PN009.jpg",
+            "attribution": "Courtesy Ulrike Leone, Pixabay.",
+            "caption": "An example of a honey bee hive.",
+            "image_link": "https://pixabay.com/photos/beehive-bees-bee-keeping-beekeeping-3703434/"
+          }
+        ],
+        "description": "The honey bees in Minnesota are not native and are kept by humans for honey. They live in houses, or hives, made out of wood by humans."
+
+        }
+    }
+  }
