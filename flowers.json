@@ -4,8 +4,8 @@
     "asclepias_syriaca": {
       "name": "common milkweed",
       "sci_name": "Asclepias syriaca",
-      "image_file": "Asclepias_syriaca.png",
-      "photo_image_file": [
+      "art_file": "Asclepias_syriaca.png",
+      "photo_files": [
         {
           "filename": "PG001.jpg",
           "attribution": "Courtesy Katy Chayka, Minnesota Wildflowers.",
@@ -39,8 +39,8 @@
     "cirsium_discolor": {
       "name": "field or pasture thistle",
       "sci_name": "Cirsium discolor",
-      "image_file": "Cirsium_discolor.png",
-       "photo_image_file": [
+      "art_file": "Cirsium_discolor.png",
+      "photo_files": [
         {
           "filename": "PG005.jpg",
           "attribution": "Courtesy Katy Chayka, Minnesota Wildflowers.",
@@ -62,8 +62,8 @@
     "echinacea_angustifolia": {
       "name": "narrow-leaved purple coneflower",
       "sci_name": "Echinacea angustifolia",
-      "image_file": "Echinacea_angustifolia.png",
-       "photo_image_file": [
+      "art_file": "Echinacea_angustifolia.png",
+      "photo_files": [
         {
           "filename": "PG007.jpg",
           "attribution": "Courtesy Peter M. Dziuk, Minnesota Wildflowers.",
@@ -85,8 +85,8 @@
     "rubus_occidentalis": {
       "name": "black raspberry",
       "sci_name": "Rubus occidentalis",
-      "image_file": "Rubus_occidentalis.png",
-       "photo_image_file": [
+      "art_file": "Rubus_occidentalis.png",
+      "photo_files": [
         {
           "filename": "PG009.jpg",
           "attribution": "Courtesy Peter M. Dziuk, Minnesota Wildflowers.",
@@ -94,10 +94,10 @@
           "image_link": "https://www.minnesotawildflowers.info/shrub/black-raspberry"
         },
         {
-         "filename": "PG010.jpg",
+          "filename": "PG010.jpg",
           "attribution": "Courtesy Peter M. Dziuk, Minnesota Wildflowers.",
           "caption": "Black Raspberry flowers. Photograph taken in Anoka, Fillmore and Ramsey counties, 2015.",
-          "image_link": "https://www.minnesotawildflowers.info/shrub/black-raspberry" 
+          "image_link": "https://www.minnesotawildflowers.info/shrub/black-raspberry"
         }
       ],
       "blooming_period": [
@@ -108,8 +108,8 @@
     "monarda_fistulosa": {
       "name": "wild bergamot or bee balm",
       "sci_name": "Monarda fistulosa",
-      "image_file": "Monarda_fistulosa.png",
-       "photo_image_file": [
+      "art_file": "Monarda_fistulosa.png",
+      "photo_files": [
         {
           "filename": "PG011.jpg",
           "attribution": "Courtesy Peter M. Dziuk, Minnesota Wildflowers.",
@@ -131,8 +131,8 @@
     "prunus_americana": {
       "name": "wild plum",
       "sci_name": "Prunus americana",
-      "image_file": "Prunus_americana.png",
-       "photo_image_file": [
+      "art_file": "Prunus_americana.png",
+      "photo_files": [
         {
           "filename": "PG013.jpg",
           "attribution": "Courtesy Peter M. Dziuk, Minnesota Wildflowers.",
@@ -166,8 +166,8 @@
     "rudbeckia_hirta": {
       "name": "black-eyed susan",
       "sci_name": "Rudbeckia hirta",
-      "image_file": "Rudbeckia_hirta.png",
-       "photo_image_file": [
+      "art_file": "Rudbeckia_hirta.png",
+      "photo_files": [
         {
           "filename": "PG017.jpg",
           "attribution": "Courtesy Katy Chayka, Minnesota Wildflowers.",
@@ -189,8 +189,8 @@
     "solidago_rigida": {
       "name": "stiff goldenrod",
       "sci_name": "Solidago rigida",
-      "image_file": "Solidago_rigida.png",
-       "photo_image_file": [
+      "art_file": "Solidago_rigida.png",
+      "photo_files": [
         {
           "filename": "PG019.jpg",
           "attribution": "Courtesy Katy Chayka, Minnesota Wildflowers.",
@@ -204,10 +204,10 @@
           "image_link": "https://www.minnesotawildflowers.info/flower/stiff-goldenrod"
         },
         {
-         "filename": "PG021.jpg",
+          "filename": "PG021.jpg",
           "attribution": "Courtesy Katy Chayka, Minnesota Wildflowers.",
           "caption": "A pollinator party on a Stiff Goldenrod flowering head. Photos taken in Ramsey, Chisago and McLeod counties in 2013.",
-          "image_link": "https://www.minnesotawildflowers.info/flower/stiff-goldenrod" 
+          "image_link": "https://www.minnesotawildflowers.info/flower/stiff-goldenrod"
         }
       ],
       "blooming_period": [
@@ -218,13 +218,13 @@
     "taraxacum_officinale": {
       "name": "common dandelion",
       "sci_name": "Taraxacum officinale",
-      "image_file": "Taraxacum_officinale.png",
-       "photo_image_file": [
+      "art_file": "Taraxacum_officinale.png",
+      "photo_files": [
         {
           "filename": "PG022.jpg",
           "attribution": "Courtesy of Peter M. Dziuk, Minnesota Wildflowers.",
           "caption": "Common Dandelion flowering head.",
-          "image_link": "https://www.minnesotawildflowers.info/flower/common-dandelion" 
+          "image_link": "https://www.minnesotawildflowers.info/flower/common-dandelion"
         },
         {
           "filename": "PG023.jpg",
@@ -241,8 +241,8 @@
     "trifolium_repens": {
       "name": "white clover",
       "sci_name": "Trifolium repens",
-      "image_file": "Trifolium_repens.png",
-       "photo_image_file": [
+      "art_file": "Trifolium_repens.png",
+      "photo_files": [
         {
           "filename": "PG024.jpg",
           "attribution": "Courtesy of Peter M. Dziuk, Minnesota Wildflowers.",
@@ -270,8 +270,8 @@
     "vaccinium_angustifolium": {
       "name": "lowbush blueberry",
       "sci_name": "Vaccinium angustifolium",
-      "image_file": "Vaccinium_angustifolium.png",
-       "photo_image_file": [
+      "art_file": "Vaccinium_angustifolium.png",
+      "photo_files": [
         {
           "filename": "PG027.jpg",
           "attribution": "Courtesy of Katy Chayka, Minnesota Wildflowers.",
@@ -305,8 +305,8 @@
     "helianthus_maximiliani": {
       "name": "Maximilian Sunflower",
       "sci_name": "Helianthus maximiliani",
-      "image_file": "",
-       "photo_image_file": [
+      "art_file": "Helianthus_maximiliani.png",
+      "photo_files": [
         {
           "filename": "PG031.jpg",
           "attribution": "Courtesy of Katy Chayka, Minnesota Wildflowers.",
@@ -324,6 +324,219 @@
         "--07-01/--10-31"
       ],
       "description": "Helianthus maximiliani or, Maximilian Sunflower is a native prairie plant that grows in dry sunny areas. This flower provides food for deer, birds, and many native pollinators. It also provides habitat for songbirds and insects. The Maximilian Sunflower can grow from 2 to 10 feet tall. It produces yellow flowers from July to October. The Maximilian Sunflower commonly attracts these bees: Bombus (bumble bees), Halictus (sweat bees), Melissodes (long-horned bees), and Lasioglossum (small sweat bees)."
-    }
+    },
+      "dalea_purpurea": {
+        "name": "Purple Prairie Clover",
+        "sci_name": "Dalea purpurea",
+        "art_file": "Dalea_purpurea.png",
+        "photo_files": [
+          {
+            "filename": "PG041.jpg",
+            "attribution": "Courtesy Peter M Dziuk, Minnesota Wildflowers.",
+            "caption": "The flowering head of the Purple Priaire Clover plant. Photo taken in 2003.",
+            "image_link": "https://www.minnesotawildflowers.info/flower/purple-prairie-clover"
+          },
+          {
+            "filename": "PG042.jpg",
+            "attribution": "© morganwalder, iNaturalist.org, (CC BY-NC 4.0).",
+            "caption": "Some Purple Prairie Clover plants within a thicket. Photo taken in 2019 in Findlay, IL.",
+            "image_link": "https://www.inaturalist.org/photos/71666623"
+          },
+          {
+            "filename": "PG043.jpg",
+            "attribution": "Courtesy Katy Chayka, Minnesota Wildflowers.",
+            "caption": "Bumble bees visiting the flowers of Purple Prairie Clovers plants. Photo taken in 2008 at Long Lake Regional Park, Ramsey County, MN.",
+            "image_link": "https://www.minnesotawildflowers.info/flower/purple-prairie-clover"
+          }
+        ],
+        "blooming_period": [
+          "--06-01/--08-15"
+        ],
+        "description": "Dalea purpurea or Purple Prairie Clover is a low-growing bushy perennial with pink or purple flowers arranged in a spike. Purple prairie clover can grow in a variety of soils and blooms from June to mid-August. The flowers attract a wide variety of native bee species. Purple prairie clover commonly attracts these bees: Bombus (bumble bees), Agapostemon and Augochlorella (metallic green sweat bees), Halictus (sweat bees), Lasioglossum (small sweat bees), and Coelioxys and Triepeolus (cuckoo bees)."
+      },
+      "eutrochium_maculatum": {
+        "name": "Spotted Joe Pye Weed",
+        "sci_name": "Eutrochium maculatum",
+        "art_file": "Eutrochium_maculatum.png",
+        "photo_files": [
+          {
+            "filename": "PG037.jpg",
+            "attribution": "Courtesy Peter M Dziuk, Minnesota Wildflowers.",
+            "caption": "A blooming Spotted Jow Pye-Weed plant. Photo taken in 2004 in Anoka or Aitkin counties, Minnesota.",
+            "image_link": "https://www.minnesotawildflowers.info/flower/spotted-joe-pye-weed"
+          },
+          {
+            "filename": "PG038.jpeg",
+            "attribution": "© Laurie DiCesare, iNaturalist.org, (CC BY-NC 4.0).",
+            "caption": "Some Spotted Joe Pye-Weed plants next to a pond. Photo taken in 2018 in Colchester, VT.",
+            "image_link": "https://www.inaturalist.org/photos/72619281"
+          }
+        ],
+        "blooming_period": [
+          "--07-01/--09-01"
+        ],
+        "description": "Eutrochium maculatum or Spotted Joe Pye Weed is a perennial with large pink flower heads and maroon stems with spots and blooms from July to September. It is common in sites with moist soil. Besides attracting bees, Spotted Joe pye weed attracts a number of butterfly species and nocturnal moths. Most bees visit the flowers for nectar and sometimes pollen. Spotted Joe pye weed commonly attracts these bees: Bombus (bumble bees), Megachile (leafcutter bees), Coelioxys (cuckoo bees), Agapostemon (metallic green sweat bees), and Melissodes (long-horned bees)."
+      },
+      "liatris_aspera": {
+        "name": "Rough Blazing Star",
+        "sci_name": "Liatris aspera",
+        "art_file": "Liatris_aspera.png",
+        "photo_files": [
+          {
+            "filename": "PG039.jpg",
+            "attribution": "Courtesy Katy Chayka, Minnesota Wildflowers.",
+            "caption": "The flowers of the Rough Blazing Star plant. Photo taken in 2007 in central MN.",
+            "image_link": "https://www.minnesotawildflowers.info/flower/rough-blazing-star"
+          },
+          {
+            "filename": "PG040.jpeg",
+            "attribution": "© Brent J. Anderson, iNaturalist.org, (CC BY-NC 4.0).",
+            "caption": "A Rough Blazing Star plant with a visiting bumble bee. Photo taken in 2015 at Mound Prairie Township, MN.",
+            "image_link": "https://www.inaturalist.org/photos/53449608"
+          }
+        ],
+        "blooming_period": [
+          "--07-01/--09-01"
+        ],
+        "description": "Liatris aspera or Rough Blazing Star is a native perennial plant with many button-like pink or purple flowers along a flowering stalk and blooms from July to September. The flowers attract a number of bees, butterflies, and hummingbirds in late summer. Rough blazing star commonly attracts these bees: Bombus (bumble bees), Ceratina (small carpenter bees), Megachile (leafcutter bees), Agapostemon (metallic green sweat bees), and Lasioglossum (small sweat bees)."
+      },
+      "symphyotrichum_oolentangiense": {
+        "name": "Sky Blue Aster",
+        "sci_name": "Symphyotrichum oolentangiense",
+        "art_file": "Symphyotrichum_oolentangiense.png",
+        "photo_files": [
+          {
+            "filename": "PG044.jpeg",
+            "attribution": "© jim_keesling, iNaturalist.org, (CC BY-NC 4.0).",
+            "caption": "The Sky Blue Aster plant in a field. Photo taken in 2017 in Little River County, AR.",
+            "image_link": "https://www.inaturalist.org/photos/53957713"
+          },
+          {
+            "filename": "PG045.jpeg",
+            "attribution": "© psweet, iNaturalist.org, (CC BY-NC 4.0).",
+            "caption": "The flowers of the Sky Blue Aster plant. Photo taken in 2019 in Lake County, IL.",
+            "image_link": "https://www.inaturalist.org/photos/53433850"
+          }
+        ],
+        "blooming_period": [
+          "--08-15/--10-01"
+        ],
+        "description": "Symphyotrichum oolentangiense or, Sky Blue Aster is a common dry-prairie plant with light blue or violet flowers and yellow to orange disc florets. Sky blue aster grows in part-shade to sunny areas and blooms from mid-August to October. Sky blue aster attracts these bees: Agapostemon and Augochlorella and Augochloropsis (metallic green sweat bees), Melissodes (long-horned bees), Halictus (sweat bees), Lasioglossum (small sweat bees), Ceratina (small carpenter bees), Andrena (mining bees), and Bombus (bumble bees)."
+      },
+      "verbena_stricta": {
+        "name": "Hoary Vervain",
+        "sci_name": "Verbena stricta",
+        "art_file": "Verbena_stricta.png",
+        "photo_files": [
+          {
+            "filename": "PG046.jpg",
+            "attribution": "© leannmichael, iNaturalist.org, (CC BY-NC 4.0).",
+            "caption": "A butterfly enjoying nectar from Hoary Vervain flowers. Photo taken in 2019 in Lino Lakes, MN.",
+            "image_link": "https://www.inaturalist.org/photos/48412496"
+          },
+          {
+            "filename": "PG047.jpg",
+            "attribution": "© Kent McFarland, iNaturalist.org, (CC BY-NC 4.0).",
+            "caption": "Clumps of Hoary Vervain plants. Photo taken in 2010 in Riley, KS",
+            "image_link": "https://www.inaturalist.org/photos/58278122"
+          }
+        ],
+        "blooming_period": [
+          "--07-01/--09-01"
+        ],
+        "description": "Verbena stricta or Hoary Vervain is a narrow upright perennial with long flower spikes that have blue or purple flower petals. Hoary vervain can often be found in compacted sandy soil or in a prairie or prairie restoration site. Flowers bloom from July to September and develop from the bottom up, providing a longer supply of nectar and pollen for visiting insects. Hoary vervain commonly attracts these bees: Agapostemon (metallic green sweat bees), Megachile (leafcutter bees), Melissodes (long-horned bees), Calliopsis (mining bees), Bombus (bumble bees), and Nomada, Coelioxys, Epeolus, and Triepeolus (cuckoo bees)."
+      },
+      "veronicastrum_virginicum": {
+        "name": "Culver's Root",
+        "sci_name": "Veronicastrum virginicum",
+        "art_file": "Veronicastrum_virginicum.png",
+        "photo_files": [
+          {
+            "filename": "PG048.jpg",
+            "attribution": "Courtesy Peter M Dziuk, Minnesota Wildflowers.",
+            "caption": "The flower heads of the Culver's Root plant. Photo taken in 2003 in Anoka County, MN.",
+            "image_link": "https://www.minnesotawildflowers.info/flower/culvers-root"
+          },
+          {
+            "filename": "PG049.jpg",
+            "attribution": "© Janet Novak, iNaturalist.org, (CC BY-NC 4.0).",
+            "caption": "Culver's Root plant in native habitat. Photo taken in 2019 in Portsmouth, OH.",
+            "image_link": "https://www.inaturalist.org/photos/48099122"
+          }
+        ],
+        "blooming_period": [
+          "--07-01/--09-01"
+        ],
+        "description": "Veronicastrum virginicum or Culver’s Root is a perennial flower with tall stalks and small white flowers arranged in spikes. Individual flowers bloom for over a month, attracting bees, wasps, and soldier beetles. Culver’s root blooms from July to September and grows in woodland edge or prairie habitats. Culver’s root commonly attracts these bees: Lasioglossum (small sweat bees), Hylaeus (yellow-faced bees), Halictus (sweat bees), Megachile (leafcutter bees), Melissodes (long-horned bees), and Bombus (bumble bees)."
+      },
+      "zizia_aurea": {
+        "name": "Golden Alexanders",
+        "sci_name": "Zizia aurea",
+        "art_file": "Zizia_aurea.png",
+        "photo_files": [
+          {
+            "filename": "PG050.jpg",
+            "attribution": "Courtesy Peter M Dziuk, Minnesota Wildflowers.",
+            "caption": "A clump of Golden Alexanders in a garden. Photo taken in 2003.",
+            "image_link": "https://www.minnesotawildflowers.info/flower/golden-alexanders"
+          },
+          {
+            "filename": "PG051.jpg",
+            "attribution": "© bkmertz, iNaturalist.org, (CC BY-NC 4.0).",
+            "caption": "The flower heads of the Golden Alexanders plant. Photo taken in 2020 in North Salem, NY.",
+            "image_link": "https://www.inaturalist.org/photos/73230163"
+          }
+        ],
+        "blooming_period": [
+          "--04-15/--06-15"
+        ],
+        "description": "Zizia aurea or Golden Alexanders is a perennial with green stalks and leaves with clusters of yellow to orange flowers. Golden alexanders grows in a wide variety of soil types and blooms from mid-April to mid-June. These plants attract many flower-visiting insects and most visit for the nectar. Golden alexanders commonly attracts these bees: Ceratina (small carpenter bees), Lasioglossum (small sweat bees), Hylaeus (yellow-faced bees), Andrena (mining bees), Bombus (bumble bees), and Osmia (mason bees)."
+      },
+      "coreopsis_palmata": {
+        "name": "Prairie Coreopsis",
+        "sci_name": "Coreopsis palmata",
+        "art_file": "Coreopsis_palmata.png",
+        "photo_files": [
+          {
+            "filename": "PG035.jpg",
+            "attribution": "Courtesy Katy Chayka, Minnesota Wildflowers.",
+            "caption": "Prairie Coreopsis flower heads. Photo taken in 2008 at Long Lake Regional Park, Ramsay County, Minnesota.",
+            "image_link": "https://www.minnesotawildflowers.info/flower/prairie-coreopsis"
+          },
+          {
+            "filename": "PG036.jpg",
+            "attribution": "Courtesy Peter M Dziuk, Minnesota Wildflowers.",
+            "caption": "A cluster of Prairie Coreopsis plants. Photo taken in 2011.",
+            "image_link": "https://www.minnesotawildflowers.info/flower/prairie-coreopsis"
+          }
+        ],
+        "blooming_period": [
+          "--06-01/--08-01"
+        ],
+        "description": "Coreopsis palmata or Prairie Coreopsis is a short perennial with yellow-orange flower heads and dark green leaves. Prairie coreopsis grows in sunny areas and prairie landscapes and flowers from June to August. The open flower heads provide access to pollen and nectar for all bees, especially short-tongued bees. Prairie coreopsis also attracts butterflies, moths, beetles, wasps, syrphid flies, and ants. Prairie coreopsis commonly attracts these bees: Ceratina (small carpenter bees), Megachile (leafcutter bees), Heraides (small resin bees), Melissodes (long-horned bees), and Coelioxys (cuckoo bees)."
+      },
+        "achillea_millefolium": {
+          "name": "Common Yarrow",
+          "sci_name": "Achillea millefolium",
+          "art_file": "Achillea_millefolium.png",
+          "photo_files": [
+            {
+              "filename": "PG033.jpg",
+              "attribution": "Courtesy Peter M Dziuk, Minnesota Wildflowers.",
+              "caption": "A cluster of Common Yarrow flowers. Photo taken in 2004 in Anoka or Lake County.",
+              "image_link": "https://www.minnesotawildflowers.info/flower/common-yarrow"
+            },
+            {
+              "filename": "PG034.jpeg",
+              "attribution": "© kttharp, iNaturalist.org, (CC BY-NC 4.0).",
+              "caption": "The Common Yarrow plant. Photo taken May 12, 2020 in Austin TX.",
+              "image_link": "https://www.inaturalist.org/photos/73352070"
+            }
+          ],
+          "blooming_period": [
+            "--06-15/--09-01"
+          ],
+          "description": "Achillea millefolium or Common Yarrow is an upright perennial that grows in part shade, fields, or prairie and flowers from mid June to September. It has white flowers and green, fern-like leaves. These flowers are self-incompatible and rely on insects for pollination. Common yarrow has been used for a variety of ailments including wounds, burns, fevers, colds, and headaches. Common yarrow commonly attracts these bees: Lasioglossum (small sweat bees), Ceratina (small carpenter bees), Megachile (leafcutter bees), Andrena (mining bees), and Nomada (cuckoo bees)."
+      }
   }
 }

@@ -19,16 +19,19 @@
           "sci_name": {
             "type": "string"
           },
-          "image_file": {
-            "type": "string"
+          "art_file": {
+            "type": "string",
+            "pattern": "^[0-9a-zA-Z\\._-]+.(png|PNG|jp[e]?g|JP[E]?G|tif[f]?|TIF[F]?)$"
           },
-          "photo_image_file": {
+          "photo_files": {
             "type": "array",
+            "uniqueItems": true,
             "items": {
               "type": "object",
               "properties": {
                 "filename": {
-                  "type": "string"
+                  "type": "string",
+                  "pattern": "^[0-9a-zA-Z\\._-]+.(png|PNG|jp[e]?g|JP[E]?G|tif[f]?|TIF[F]?)$"
                 },
                 "attribution": {
                   "type": "string"
@@ -46,11 +49,14 @@
                 "attribution",
                 "caption",
                 "image_link"
-              ]
+              ],
+              "additionalProperties": false
             }
           },
           "blooming_period": {
             "type": "array",
+            "minItems": 1,
+            "uniqueItems": true,
             "items": [
               {
                 "type": "string"
@@ -64,16 +70,18 @@
         "required": [
           "name",
           "sci_name",
-          "image_file",
-          "photo_image_file",
+          "art_file",
+          "photo_files",
           "blooming_period",
           "description"
-        ]
+        ],
+        "additionalProperties": false
       }
     }
   },
   "required": [
     "version",
     "flowers"
-  ]
+  ],
+  "additionalProperties": false
 }

@@ -20,18 +20,25 @@
             "type": "string"
           },
           "flowers_accepted": {
-            "type": "string"
-          },
-          "image_file": {
-            "type": "string"
-          },
-          "photo_image_file": {
             "type": "array",
+            "uniqueItems": true,
+            "items": {
+            	"type": "string"
+            }
+          },
+          "art_file": {
+            "type": "string",
+            "pattern": "^[0-9a-zA-Z\\._-]+.(png|PNG|jp[e]?g|JP[E]?G|tif[f]?|TIF[F]?)$"
+          },
+          "photo_files": {
+            "type": "array",
+            "uniqueItems": true,
             "items": {
               "type": "object",
               "properties": {
                 "filename": {
-                  "type": "string"
+                  "type": "string",
+                  "pattern": "^[0-9a-zA-Z\\._-]+.(png|PNG|jp[e]?g|JP[E]?G|tif[f]?|TIF[F]?)$"
                 },
                 "attribution": {
                   "type": "string"
@@ -49,11 +56,14 @@
                 "attribution",
                 "caption",
                 "image_link"
-              ]
+              ],
+              "additionalProperties": false
             }
           },
           "active_period": {
             "type": "array",
+            "minItems": 1,
+            "uniqueItems": true,
             "items": [
               {
                 "type": "string"
@@ -75,16 +85,16 @@
               "pollen_collection": {
                 "type": "string"
               },
-              "when_are_they_active": {
+              "activity": {
                 "type": "string"
               },
-              "how_many_are_there": {
+              "species": {
                 "type": "string"
               },
-              "taking_care_of_the_brood": {
+              "brood": {
                 "type": "string"
               },
-              "common_forage_plants": {
+              "forage": {
                 "type": "string"
               },
               "features": {
@@ -93,35 +103,54 @@
               "did_you_know": {
                 "type": "string"
               },
-              "the_species_in_our_game": {
+              "chosen_bee": {
                 "type": "string"
               }
             },
-            "required": []
+            "required": [],
+            "additionalProperties": false
           },
           "nest_type": {
-            "type": "string"
+            "type": "string",
+            "enum": [
+              "cavity",
+              "pithy_stem",
+              "ground_bare",
+              "ground_grass",
+              "rotting_wood",
+              "bumble_bee_nest",
+              "honey_bee_house"
+            ]
           },
           "sociality": {
-            "type": "string"
+            "type": "string",
+            "enum": [
+              "social",
+              "solitary",
+              "primitively_social",
+              "eusocial",
+              "communal"
+            ]
           }
         },
         "required": [
           "name",
           "sci_name",
           "flowers_accepted",
-          "image_file",
-          "photo_image_file",
+          "art_file",
+          "photo_files",
           "active_period",
           "description",
           "nest_type",
           "sociality"
-        ]
+        ],
+        "additionalProperties": false
       }
     }
   },
   "required": [
     "version",
     "bees"
-  ]
+  ],
+  "additionalProperties": false
 }
