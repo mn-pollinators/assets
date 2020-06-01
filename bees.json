@@ -4,6 +4,7 @@
     "apis_mellifera": {
       "name": "honey bee",
       "sci_name": "Apis mellifera",
+      "relative_size": 1.4,
       "flowers_accepted": [
         "asclepias_syriaca", 
         "cirsium_discolor", 
@@ -60,6 +61,7 @@
     "colletes_simulans": {
       "name": "spine-shouldered cellophane bee",
       "sci_name": "Colletes simulans",
+      "relative_size": 1.0,
       "flowers_accepted": [
         "prunus_americana", 
         "taraxacum_officinale"
@@ -101,6 +103,7 @@
     "hylaeus_modestus": {
       "name": "modest masked bee",
       "sci_name": "Hylaeus modestus",
+      "relative_size": 0.7,
       "flowers_accepted": [
         "echinacea_angustifolia", 
         "solidago_rigida", 
@@ -146,6 +149,7 @@
     "andrena_carolina": {
       "name": "carolina miner bee",
       "sci_name": "Andrena carolina",
+      "relative_size": 1.15,
       "flowers_accepted": [
         "echinacea_angustifolia", 
         "rubus_occidentalis", 
@@ -198,6 +202,7 @@
     "calliopsis_coloradensis": {
       "name": "colorado miner bee",
       "sci_name": "Calliopsis coloradensis",
+      "relative_size": 0.8,
       "flowers_accepted": [
         "rubus_occidentalis", 
         "taraxacum_officinale", 
@@ -241,6 +246,7 @@
     "agapostemon_virescens": {
       "name": "bicolored striped sweat bee",
       "sci_name": "Agapostemon virescens",
+      "relative_size": 0.95,
       "flowers_accepted": [
         "rubus_occidentalis", 
         "cirsium_discolor", 
@@ -293,6 +299,7 @@
     "halictus_confusus": {
       "name": "confusing furrow bee",
       "sci_name": "Halictus confusus",
+      "relative_size": 0.95,
       "flowers_accepted": [
         "asclepias_syriaca", 
         "cirsium_discolor", 
@@ -344,6 +351,7 @@
     "lasioglossum_cressonii": {
       "name": "cresson's sweat bee",
       "sci_name": "Lasioglossum cressonii",
+      "relative_size": 0.7,
       "flowers_accepted": [
         "cirsium_discolor", 
         "echinacea_angustifolia", 
@@ -398,6 +406,7 @@
     "augochloropsis_metallica": {
       "name": "metallic green sweat bee",
       "sci_name": "Augochloropsis metallica",
+      "relative_size": 0.9,
       "flowers_accepted": [
         "rubus_occidentalis", 
         "asclepias_syriaca", 
@@ -442,6 +451,7 @@
     "augochlorella_aurata": {
       "name": "golden sweat bee",
       "sci_name": "Augochlorella aurata",
+      "relative_size": 0.95,
       "flowers_accepted": [
         "echinacea_angustifolia", 
         "rubus_occidentalis", 
@@ -489,6 +499,7 @@
     "augochlora_pura": {
       "name": "pure green sweat bee",
       "sci_name": "Augochlora pura",
+      "relative_size": 0.8,
       "flowers_accepted": [
         "rubus_occidentalis", 
         "rudbeckia_hirta", 
@@ -532,6 +543,7 @@
     "osmia_distincta": {
       "name": "distinct mason bee",
       "sci_name": "Osmia distincta",
+      "relative_size": 1.1,
       "flowers_accepted": [
         "rubus_occidentalis", 
         "prunus_americana", 
@@ -577,6 +589,7 @@
     "megachile_pugnata": {
       "name": "pugnacious leafcutter bee",
       "sci_name": "Megachile pugnata",
+      "relative_size": 1.3,
       "flowers_accepted": [
         "asclepias_syriaca", 
         "cirsium_discolor", 
@@ -636,6 +649,7 @@
     "hoplitis_albifrons": {
       "name": "mason bee",
       "sci_name": "Hoplitis albifrons",
+      "relative_size": 0.9,
       "flowers_accepted": [
         "monarda_fistulosa", 
         "taraxacum_officinale"
@@ -683,6 +697,7 @@
     "heriades_variolosa": {
       "name": "small resin bee",
       "sci_name": "Heriades variolosa",
+      "relative_size": 0.7,
       "flowers_accepted": [
         "echinacea_angustifolia", 
         "taraxacum_officinale", 
@@ -725,6 +740,7 @@
     "anthidium_manicatum": {
       "name": "wool carder bee",
       "sci_name": "Anthidium manicatum",
+      "relative_size": 1.25,
       "flowers_accepted": [
         "echinacea_angustifolia", 
         "taraxacum_officinale", 
@@ -767,6 +783,7 @@
     "bombus_affinis": {
       "name": "rusty patch bumble bee",
       "sci_name": "Bombus affinis",
+      "relative_size": 1.8,
       "flowers_accepted": [
         "asclepias_syriaca", 
         "cirsium_discolor", 
@@ -838,6 +855,7 @@
     "anthophora_bomboides": {
       "name": "bumble-bee-mimic digger bee",
       "sci_name": "Anthophora bomboides",
+      "relative_size": 1.35,
       "flowers_accepted": [
         "monarda_fistulosa", 
         "taraxacum_officinale", 
@@ -881,6 +899,7 @@
     "melissodes_illatus": {
       "name": "valiant long-horned bee",
       "sci_name": "Melissodes illatus",
+      "relative_size": 1.2,
       "flowers_accepted": [
         "cirsium_discolor", 
         "echinacea_angustifolia", 
@@ -932,6 +951,7 @@
     "ceratina_calcarata": {
       "name": "spurred carpenter bee",
       "sci_name": "Ceratina calcarata",
+      "relative_size": 0.6,
       "flowers_accepted": [
         "echinacea_angustifolia", 
         "solidago_rigida", 
@@ -981,6 +1001,7 @@
     "xylocopa_virginica": {
       "name": "eastern carpenter bee",
       "sci_name": "Xylocopa virginica",
+      "relative_size": 1.8,
       "flowers_accepted": [
         "echinacea_angustifolia", 
         "taraxacum_officinale", 

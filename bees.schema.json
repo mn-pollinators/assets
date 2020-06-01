@@ -19,6 +19,9 @@
           "sci_name": {
             "type": "string"
           },
+          "relative_size": {
+            "type": "number"
+          },
           "flowers_accepted": {
             "type": "array",
             "uniqueItems": true,
@@ -136,6 +139,7 @@
         "required": [
           "name",
           "sci_name",
+          "relative_size",
           "flowers_accepted",
           "art_file",
           "photo_files",
