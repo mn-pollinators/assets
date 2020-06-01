@@ -19,6 +19,9 @@
           "sci_name": {
             "type": "string"
           },
+          "relative_size": {
+            "type": "number"
+          },
           "art_file": {
             "type": "string",
             "pattern": "^[0-9a-zA-Z\\._-]+.(png|PNG|jp[e]?g|JP[E]?G|tif[f]?|TIF[F]?)$"
@@ -70,6 +73,7 @@
         "required": [
           "name",
           "sci_name",
+          "number",
           "art_file",
           "photo_files",
           "blooming_period",
