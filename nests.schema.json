@@ -1,0 +1,73 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "version": {
+        "type": "string"
+      },
+      "nests": {
+        "type": "object",
+        "propertyNames": {
+          "pattern": "^[a-zA-Z0-9]([a-zA-Z0-9_])+$"
+        },
+        "additionalProperties": {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "art_file": {
+              "type": "string",
+              "pattern": "^[0-9a-zA-Z\\._-]+.(png|PNG|jp[e]?g|JP[E]?G|tif[f]?|TIF[F]?)$"
+            },
+            "photo_files": {
+              "type": "array",
+              "uniqueItems": true,
+              "items": {
+                "type": "object",
+                "properties": {
+                  "filename": {
+                    "type": "string",
+                    "pattern": "^[0-9a-zA-Z\\._-]+.(png|PNG|jp[e]?g|JP[E]?G|tif[f]?|TIF[F]?)$"
+                  },
+                  "attribution": {
+                    "type": "string"
+                  },
+                  "caption": {
+                    "type": "string"
+                  },
+                  "image_link": {
+                    "type": "string",
+                    "format": "uri"
+                  }
+                },
+                "required": [
+                  "filename",
+                  "attribution",
+                  "caption",
+                  "image_link"
+                ],
+                "additionalProperties": false
+              }
+            },
+            "description": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "name",
+            "art_file",
+            "photo_files",
+            "description"
+          ],
+          "additionalProperties": false
+        }
+      }
+    },
+    "required": [
+      "version",
+      "nests"
+    ],
+    "additionalProperties": false
+  }
+  

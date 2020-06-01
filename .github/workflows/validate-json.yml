@@ -26,3 +26,13 @@ jobs:
         env:
           INPUT_SCHEMA: ./flowers.schema.json
           INPUT_JSONS: ./flowers.json
+
+  validate-nests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: Validate JSON
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env: 
+          INPUT_SCHEMA: ./nests.schema.json
+          INPUT_JSONS: ./nests.json  

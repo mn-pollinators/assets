@@ -11,6 +11,12 @@
             "/flowers.json"
           ],
           "url": "/flowers.schema.json"
+        },
+        {
+          "fileMatch": [
+            "/nests.json"
+          ],
+          "url": "/nests.schema.json"
         }
     ]
 }
