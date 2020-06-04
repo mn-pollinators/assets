@@ -73,7 +73,7 @@
         "required": [
           "name",
           "sci_name",
-          "number",
+          "relative_size",
           "art_file",
           "photo_files",
           "blooming_period",
