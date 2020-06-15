@@ -20,7 +20,9 @@
             "type": "string"
           },
           "relative_size": {
-            "type": "number"
+            "type": "number",
+            "minimum": 0,
+            "maximum": 10
           },
           "flowers_accepted": {
             "type": "array",
