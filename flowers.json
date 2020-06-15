@@ -4,6 +4,7 @@
     "asclepias_syriaca": {
       "name": "common milkweed",
       "sci_name": "Asclepias syriaca",
+      "relative_size": 2.0,
       "art_file": "Asclepias_syriaca.png",
       "photo_files": [
         {
@@ -39,6 +40,7 @@
     "cirsium_discolor": {
       "name": "field or pasture thistle",
       "sci_name": "Cirsium discolor",
+      "relative_size": 2.5,
       "art_file": "Cirsium_discolor.png",
       "photo_files": [
         {
@@ -62,6 +64,7 @@
     "echinacea_angustifolia": {
       "name": "narrow-leaved purple coneflower",
       "sci_name": "Echinacea angustifolia",
+      "relative_size": 0.8,
       "art_file": "Echinacea_angustifolia.png",
       "photo_files": [
         {
@@ -85,6 +88,7 @@
     "rubus_occidentalis": {
       "name": "black raspberry",
       "sci_name": "Rubus occidentalis",
+      "relative_size": 2.0,
       "art_file": "Rubus_occidentalis.png",
       "photo_files": [
         {
@@ -108,6 +112,7 @@
     "monarda_fistulosa": {
       "name": "wild bergamot or bee balm",
       "sci_name": "Monarda fistulosa",
+      "relative_size": 1.5,
       "art_file": "Monarda_fistulosa.png",
       "photo_files": [
         {
@@ -131,6 +136,7 @@
     "prunus_americana": {
       "name": "wild plum",
       "sci_name": "Prunus americana",
+      "relative_size": 3.0,
       "art_file": "Prunus_americana.png",
       "photo_files": [
         {
@@ -166,6 +172,7 @@
     "rudbeckia_hirta": {
       "name": "black-eyed susan",
       "sci_name": "Rudbeckia hirta",
+      "relative_size": 1.0,
       "art_file": "Rudbeckia_hirta.png",
       "photo_files": [
         {
@@ -189,6 +196,7 @@
     "solidago_rigida": {
       "name": "stiff goldenrod",
       "sci_name": "Solidago rigida",
+      "relative_size": 1.5,
       "art_file": "Solidago_rigida.png",
       "photo_files": [
         {
@@ -218,6 +226,7 @@
     "taraxacum_officinale": {
       "name": "common dandelion",
       "sci_name": "Taraxacum officinale",
+      "relative_size": 0.5,
       "art_file": "Taraxacum_officinale.png",
       "photo_files": [
         {
@@ -241,6 +250,7 @@
     "trifolium_repens": {
       "name": "white clover",
       "sci_name": "Trifolium repens",
+      "relative_size": 0.3,
       "art_file": "Trifolium_repens.png",
       "photo_files": [
         {
@@ -270,6 +280,7 @@
     "vaccinium_angustifolium": {
       "name": "lowbush blueberry",
       "sci_name": "Vaccinium angustifolium",
+      "relative_size": 0.7,
       "art_file": "Vaccinium_angustifolium.png",
       "photo_files": [
         {
@@ -305,6 +316,7 @@
     "helianthus_maximiliani": {
       "name": "Maximilian Sunflower",
       "sci_name": "Helianthus maximiliani",
+      "relative_size": 2.0,
       "art_file": "Helianthus_maximiliani.png",
       "photo_files": [
         {
@@ -328,6 +340,7 @@
       "dalea_purpurea": {
         "name": "Purple Prairie Clover",
         "sci_name": "Dalea purpurea",
+        "relative_size": 1.0,
         "art_file": "Dalea_purpurea.png",
         "photo_files": [
           {
@@ -357,6 +370,7 @@
       "eutrochium_maculatum": {
         "name": "Spotted Joe Pye Weed",
         "sci_name": "Eutrochium maculatum",
+        "relative_size": 2.0,
         "art_file": "Eutrochium_maculatum.png",
         "photo_files": [
           {
@@ -380,6 +394,7 @@
       "liatris_aspera": {
         "name": "Rough Blazing Star",
         "sci_name": "Liatris aspera",
+        "relative_size": 1.2,
         "art_file": "Liatris_aspera.png",
         "photo_files": [
           {
@@ -403,6 +418,7 @@
       "symphyotrichum_oolentangiense": {
         "name": "Sky Blue Aster",
         "sci_name": "Symphyotrichum oolentangiense",
+        "relative_size": 1.1,
         "art_file": "Symphyotrichum_oolentangiense.png",
         "photo_files": [
           {
@@ -426,6 +442,7 @@
       "verbena_stricta": {
         "name": "Hoary Vervain",
         "sci_name": "Verbena stricta",
+        "relative_size": 1.0,
         "art_file": "Verbena_stricta.png",
         "photo_files": [
           {
@@ -449,6 +466,7 @@
       "veronicastrum_virginicum": {
         "name": "Culver's Root",
         "sci_name": "Veronicastrum virginicum",
+        "relative_size": 2.0,
         "art_file": "Veronicastrum_virginicum.png",
         "photo_files": [
           {
@@ -472,6 +490,7 @@
       "zizia_aurea": {
         "name": "Golden Alexanders",
         "sci_name": "Zizia aurea",
+        "relative_size": 1.0,
         "art_file": "Zizia_aurea.png",
         "photo_files": [
           {
@@ -495,6 +514,7 @@
       "coreopsis_palmata": {
         "name": "Prairie Coreopsis",
         "sci_name": "Coreopsis palmata",
+        "relative_size": 1.0,
         "art_file": "Coreopsis_palmata.png",
         "photo_files": [
           {
@@ -518,6 +538,7 @@
         "achillea_millefolium": {
           "name": "Common Yarrow",
           "sci_name": "Achillea millefolium",
+          "relative_size": 1.0,
           "art_file": "Achillea_millefolium.png",
           "photo_files": [
             {
