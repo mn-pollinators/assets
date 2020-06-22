@@ -19,7 +19,7 @@ you'd like. You might want to add bees or flowers for your region following our 
 
 ## License
 
-The code in this repository is released under the MIT license. The illustrations themselves are released by Olivia Carlson under +Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0). Other photographs or images are released under their own listed attributions.
+The contents of this repository is released under the MIT license except as otherwise noted. The illustrations in the `/art` directory is released by Olivia Carlson under [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/). The images in the `/photos` directory are subject to the copyright and licensing described in the associated JSON files.
 
 ## Code of Conduct
 
