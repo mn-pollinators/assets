@@ -1,0 +1,15 @@
+{
+  "name": "@mn-pollinators/assets",
+  "version": "0.1.0",
+  "description": "Assets for Minnesota Pollinators projects",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mn-pollinators/assets.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mn-pollinators/assets/issues"
+  },
+  "homepage": "https://github.com/mn-pollinators/assets#readme"
+}
