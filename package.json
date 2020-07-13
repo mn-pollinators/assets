@@ -16,9 +16,6 @@
     "url": "https://github.com/mn-pollinators/assets/issues"
   },
   "homepage": "https://github.com/mn-pollinators/assets#readme",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
   "devDependencies": {
     "imagemin": "^7.0.1",
     "imagemin-pngquant": "^9.0.0",
