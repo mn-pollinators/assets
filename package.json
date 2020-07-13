@@ -1,6 +1,6 @@
 {
   "name": "@mn-pollinators/assets",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Assets for Minnesota Pollinators projects",
   "scripts": {
     "build": "npm run build:art",
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/mn-pollinators/assets#readme",
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/"
   },
   "devDependencies": {
     "imagemin": "^7.0.1",
