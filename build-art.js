@@ -38,9 +38,9 @@ async function processDirectory(dirPath, outputDirPath, sharpOperations) {
   await imagemin([`${outputDirPath}/*.png`], {
     destination: outputDirPath,
     plugins: [
-        imageminPngquant({
-            quality: [0.3, 0.8]
-        })
+      imageminPngquant({
+        quality: [0.3, 0.8]
+      })
     ]
   });
   console.log(`Done imagemin processing ${dirPath} to ${outputDirPath}`);
@@ -91,5 +91,4 @@ for(const width of [1000, 2000, 4000]) {
     .toFile(outputPath)
     .then((info) => console.log(`Processed ${backgroundPath} to ${outputPath} (${info.size} bytes)`));
 }
-
 
