@@ -7,21 +7,31 @@ on:
     - '.github/workflows/validate-json.yml'
 
 jobs:
-  run-schemas:
+  validate-bees:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Validate bees
+      - name: Validate JSON against the schema
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
           INPUT_SCHEMA: ./bees.schema.json
           INPUT_JSONS: ./bees.json
-      - name: Validate flowers
+
+  validate-flowers:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Validate JSON against the schema
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
           INPUT_SCHEMA: ./flowers.schema.json
           INPUT_JSONS: ./flowers.json
-      - name: Validate nests
+
+  validate-nests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Validate JSON against the schema
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
           INPUT_SCHEMA: ./nests.schema.json
