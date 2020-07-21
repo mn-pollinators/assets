@@ -5,6 +5,7 @@ on:
     paths:
     - '**.json'
     - '.github/workflows/validate-json.yml'
+    - 'spec/**'
 
 jobs:
   validate-bees:
