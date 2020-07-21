@@ -2,6 +2,9 @@
   "name": "@mn-pollinators/assets",
   "version": "0.1.0",
   "description": "Assets for Minnesota Pollinators projects",
+  "scripts": {
+    "test": "jasmine"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mn-pollinators/assets.git"
@@ -11,5 +14,8 @@
   "bugs": {
     "url": "https://github.com/mn-pollinators/assets/issues"
   },
-  "homepage": "https://github.com/mn-pollinators/assets#readme"
+  "homepage": "https://github.com/mn-pollinators/assets#readme",
+  "devDependencies": {
+    "jasmine": "^3.5.0"
+  }
 }
