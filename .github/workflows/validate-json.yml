@@ -32,6 +32,8 @@ jobs:
   run-tests:
     runs-on: ubuntu-latest
     strategy:
+      # It's probably overkill to test against two versions of node, but it
+      # doesn't really cost us anything, either.
       matrix:
         node-version: [10.x, 14.x]
     steps:
@@ -40,6 +42,7 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: ${{ matrix.node-version }}
+      - run: npm ci
       - run: npm test
         env:
           CI: true
