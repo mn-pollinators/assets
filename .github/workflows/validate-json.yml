@@ -5,13 +5,14 @@ on:
     paths:
     - '**.json'
     - '.github/workflows/validate-json.yml'
+    - 'spec/**'
 
 jobs:
   validate-bees:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
-      - name: Validate JSON
+      - uses: actions/checkout@v2
+      - name: Validate JSON against the schema
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
           INPUT_SCHEMA: ./bees.schema.json
@@ -20,8 +21,8 @@ jobs:
   validate-flowers:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
-      - name: Validate JSON
+      - uses: actions/checkout@v2
+      - name: Validate JSON against the schema
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
           INPUT_SCHEMA: ./flowers.schema.json
@@ -30,9 +31,24 @@ jobs:
   validate-nests:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
-      - name: Validate JSON
+      - uses: actions/checkout@v2
+      - name: Validate JSON against the schema
         uses: docker://orrosenblatt/validate-json-action:latest
-        env: 
+        env:
           INPUT_SCHEMA: ./nests.schema.json
-          INPUT_JSONS: ./nests.json  
+          INPUT_JSONS: ./nests.json
+
+  # Adapted from
+  # https://docs.github.com/en/actions/language-and-framework-guides/using-nodejs-with-github-actions
+  run-tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: 12.x
+      - run: npm ci
+      - run: npm test
+        env:
+          CI: true

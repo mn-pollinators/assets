@@ -4,7 +4,8 @@
   "description": "Assets for Minnesota Pollinators projects",
   "scripts": {
     "build": "npm run build:art",
-    "build:art": "node build-art.js"
+    "build:art": "node build-art.js",
+    "test": "jasmine"
   },
   "repository": {
     "type": "git",
@@ -22,6 +23,7 @@
   "devDependencies": {
     "imagemin": "^7.0.1",
     "imagemin-pngquant": "^9.0.0",
-    "sharp": "^0.25.4"
+    "sharp": "^0.25.4",
+    "jasmine": "^3.5.0"
   }
 }
