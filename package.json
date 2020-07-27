@@ -1,7 +1,11 @@
 {
   "name": "@mn-pollinators/assets",
-  "version": "0.1.0",
+  "version": "0.2.3",
   "description": "Assets for Minnesota Pollinators projects",
+  "scripts": {
+    "build": "npm run build:art",
+    "build:art": "node build-art.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mn-pollinators/assets.git"
@@ -11,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/mn-pollinators/assets/issues"
   },
-  "homepage": "https://github.com/mn-pollinators/assets#readme"
+  "homepage": "https://github.com/mn-pollinators/assets#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "devDependencies": {
+    "imagemin": "^7.0.1",
+    "imagemin-pngquant": "^9.0.0",
+    "sharp": "^0.25.4"
+  }
 }
