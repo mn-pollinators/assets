@@ -38,7 +38,7 @@
       "description": "Asclepias syriaca or, Common milkweed is a tall perennial plant that grows in sunny areas and flowers from June to August. It has pink flowers and green leaves. Common milkweed attracts lots of kinds of insects both to feed on the nectar from the flowers and to lay eggs. This is an important plant to the monarch butterfly, Danaus plexippus. The monarch butterfly lays its eggs on the leaves, and when the eggs hatch, the larvae eat the leaves before turning into butterflies. Common milkweed commonly attracts these bees: Megachile (leafcutter bees), Bombus (bumble bees), Halictus (sweat bees), and Coelioxys (cuckoo bees)."
     },
     "cirsium_discolor": {
-      "name": "field or pasture thistle",
+      "name": "field thistle",
       "sci_name": "Cirsium discolor",
       "relative_size": 2.5,
       "art_file": "Cirsium_discolor.png",
@@ -110,7 +110,7 @@
       "description": "Rubus occidentalis or, Black Raspberry is a common native plant frequently found along roadsides and hiking trails. It produces white flowers from May to June. After it is pollinated, it makes dark berries (black raspberries) that are edible to humans and other mammals. Black Raspberry commonly attracts these bees: Bombus (bumble bees), Osmia (mason bees), Megachile (leafcutter bees), Nomada (cuckoo bees), Agapostemon (metallic green sweat bees), Halictus (sweat bees), Lasioglossum (small sweat bees), Augochloropsis (metallic green sweat bees), Augochlorella (metallic green sweat bees), Augochlora (metallic green sweat bees), Andrena (mining bees), and Calliopsis (mining bees)."
     },
     "monarda_fistulosa": {
-      "name": "wild bergamot or bee balm",
+      "name": "wild bergamot",
       "sci_name": "Monarda fistulosa",
       "relative_size": 1.5,
       "art_file": "Monarda_fistulosa.png",

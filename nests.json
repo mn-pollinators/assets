@@ -34,7 +34,7 @@
         "description": "Some bees burrow into soft pithy stems of plants to make their nests."
       },
       "ground_bare": {
-        "name": "soil or bare ground nest",
+        "name": "bare ground nest",
         "art_file": "ground_bare.png",
         "photo_files": [
           {
