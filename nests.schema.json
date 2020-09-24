@@ -14,7 +14,10 @@
           "type": "object",
           "properties": {
             "name": {
-              "type": "string"
+              "type": "string",
+              "not": {
+                "pattern": "\\bor\\b"
+              }
             },
             "art_file": {
               "type": "string",
@@ -70,4 +73,3 @@
     ],
     "additionalProperties": false
   }
-  
