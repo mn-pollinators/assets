@@ -147,7 +147,7 @@
       "sociality": "solitary"
     },
     "andrena_carolina": {
-      "name": "carolina miner bee",
+      "name": "Carolina miner bee",
       "sci_name": "Andrena carolina",
       "relative_size": 1.15,
       "flowers_accepted": [
@@ -200,7 +200,7 @@
       "sociality": "solitary"
     },
     "calliopsis_coloradensis": {
-      "name": "colorado miner bee",
+      "name": "Colorado miner bee",
       "sci_name": "Calliopsis coloradensis",
       "relative_size": 0.8,
       "flowers_accepted": [
@@ -349,7 +349,7 @@
       "sociality": "primitively_social"
     },
     "lasioglossum_cressonii": {
-      "name": "cresson's sweat bee",
+      "name": "Cresson's sweat bee",
       "sci_name": "Lasioglossum cressonii",
       "relative_size": 0.7,
       "flowers_accepted": [

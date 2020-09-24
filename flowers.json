@@ -314,7 +314,7 @@
       "description": "Vaccinium angustifolium or, Lowbush Blueberry is a flowering and fruiting plant that is common and widespread on Northern and Northeastern forests. Lowbush Blueberry produces white, bell-shaped flowers that produce edible berries after pollination. The Lowbush Blueberry plant is fire-tolerant and its numbers often increase in an area following a forest fire. While honey bees are often brought to pollinate commercially grown Lowbush Blueberries, sometimes bumble bees are used because of their ability to use sonication to pollinate the flowers and because they can fly in colder, wetter conditions than honey bees.The  Lowbush Blueberry commonly attracts these bees: Andrena (mining bees), Bombus (bumble bees), Osmia (mason bees), Lasioglossum (small sweat bees), and Halictus (sweat bees)."
     },
     "helianthus_maximiliani": {
-      "name": "Maximilian Sunflower",
+      "name": "Maximilian sunflower",
       "sci_name": "Helianthus maximiliani",
       "relative_size": 2.0,
       "art_file": "Helianthus_maximiliani.png",
@@ -338,7 +338,7 @@
       "description": "Helianthus maximiliani or, Maximilian Sunflower is a native prairie plant that grows in dry sunny areas. This flower provides food for deer, birds, and many native pollinators. It also provides habitat for songbirds and insects. The Maximilian Sunflower can grow from 2 to 10 feet tall. It produces yellow flowers from July to October. The Maximilian Sunflower commonly attracts these bees: Bombus (bumble bees), Halictus (sweat bees), Melissodes (long-horned bees), and Lasioglossum (small sweat bees)."
     },
       "dalea_purpurea": {
-        "name": "Purple Prairie Clover",
+        "name": "purple prairie clover",
         "sci_name": "Dalea purpurea",
         "relative_size": 1.0,
         "art_file": "Dalea_purpurea.png",
@@ -368,7 +368,7 @@
         "description": "Dalea purpurea or Purple Prairie Clover is a low-growing bushy perennial with pink or purple flowers arranged in a spike. Purple prairie clover can grow in a variety of soils and blooms from June to mid-August. The flowers attract a wide variety of native bee species. Purple prairie clover commonly attracts these bees: Bombus (bumble bees), Agapostemon and Augochlorella (metallic green sweat bees), Halictus (sweat bees), Lasioglossum (small sweat bees), and Coelioxys and Triepeolus (cuckoo bees)."
       },
       "eutrochium_maculatum": {
-        "name": "Spotted Joe Pye Weed",
+        "name": "spotted Joe Pye weed",
         "sci_name": "Eutrochium maculatum",
         "relative_size": 2.0,
         "art_file": "Eutrochium_maculatum.png",
@@ -392,7 +392,7 @@
         "description": "Eutrochium maculatum or Spotted Joe Pye Weed is a perennial with large pink flower heads and maroon stems with spots and blooms from July to September. It is common in sites with moist soil. Besides attracting bees, Spotted Joe pye weed attracts a number of butterfly species and nocturnal moths. Most bees visit the flowers for nectar and sometimes pollen. Spotted Joe pye weed commonly attracts these bees: Bombus (bumble bees), Megachile (leafcutter bees), Coelioxys (cuckoo bees), Agapostemon (metallic green sweat bees), and Melissodes (long-horned bees)."
       },
       "liatris_aspera": {
-        "name": "Rough Blazing Star",
+        "name": "rough blazing star",
         "sci_name": "Liatris aspera",
         "relative_size": 1.2,
         "art_file": "Liatris_aspera.png",
@@ -416,7 +416,7 @@
         "description": "Liatris aspera or Rough Blazing Star is a native perennial plant with many button-like pink or purple flowers along a flowering stalk and blooms from July to September. The flowers attract a number of bees, butterflies, and hummingbirds in late summer. Rough blazing star commonly attracts these bees: Bombus (bumble bees), Ceratina (small carpenter bees), Megachile (leafcutter bees), Agapostemon (metallic green sweat bees), and Lasioglossum (small sweat bees)."
       },
       "symphyotrichum_oolentangiense": {
-        "name": "Sky Blue Aster",
+        "name": "sky blue aster",
         "sci_name": "Symphyotrichum oolentangiense",
         "relative_size": 1.1,
         "art_file": "Symphyotrichum_oolentangiense.png",
@@ -440,7 +440,7 @@
         "description": "Symphyotrichum oolentangiense or, Sky Blue Aster is a common dry-prairie plant with light blue or violet flowers and yellow to orange disc florets. Sky blue aster grows in part-shade to sunny areas and blooms from mid-August to October. Sky blue aster attracts these bees: Agapostemon and Augochlorella and Augochloropsis (metallic green sweat bees), Melissodes (long-horned bees), Halictus (sweat bees), Lasioglossum (small sweat bees), Ceratina (small carpenter bees), Andrena (mining bees), and Bombus (bumble bees)."
       },
       "verbena_stricta": {
-        "name": "Hoary Vervain",
+        "name": "hoary vervain",
         "sci_name": "Verbena stricta",
         "relative_size": 1.0,
         "art_file": "Verbena_stricta.png",
@@ -464,7 +464,7 @@
         "description": "Verbena stricta or Hoary Vervain is a narrow upright perennial with long flower spikes that have blue or purple flower petals. Hoary vervain can often be found in compacted sandy soil or in a prairie or prairie restoration site. Flowers bloom from July to September and develop from the bottom up, providing a longer supply of nectar and pollen for visiting insects. Hoary vervain commonly attracts these bees: Agapostemon (metallic green sweat bees), Megachile (leafcutter bees), Melissodes (long-horned bees), Calliopsis (mining bees), Bombus (bumble bees), and Nomada, Coelioxys, Epeolus, and Triepeolus (cuckoo bees)."
       },
       "veronicastrum_virginicum": {
-        "name": "Culver's Root",
+        "name": "Culver's root",
         "sci_name": "Veronicastrum virginicum",
         "relative_size": 2.0,
         "art_file": "Veronicastrum_virginicum.png",
@@ -488,7 +488,7 @@
         "description": "Veronicastrum virginicum or Culver’s Root is a perennial flower with tall stalks and small white flowers arranged in spikes. Individual flowers bloom for over a month, attracting bees, wasps, and soldier beetles. Culver’s root blooms from July to September and grows in woodland edge or prairie habitats. Culver’s root commonly attracts these bees: Lasioglossum (small sweat bees), Hylaeus (yellow-faced bees), Halictus (sweat bees), Megachile (leafcutter bees), Melissodes (long-horned bees), and Bombus (bumble bees)."
       },
       "zizia_aurea": {
-        "name": "Golden Alexanders",
+        "name": "golden alexanders",
         "sci_name": "Zizia aurea",
         "relative_size": 1.0,
         "art_file": "Zizia_aurea.png",
@@ -512,7 +512,7 @@
         "description": "Zizia aurea or Golden Alexanders is a perennial with green stalks and leaves with clusters of yellow to orange flowers. Golden alexanders grows in a wide variety of soil types and blooms from mid-April to mid-June. These plants attract many flower-visiting insects and most visit for the nectar. Golden alexanders commonly attracts these bees: Ceratina (small carpenter bees), Lasioglossum (small sweat bees), Hylaeus (yellow-faced bees), Andrena (mining bees), Bombus (bumble bees), and Osmia (mason bees)."
       },
       "coreopsis_palmata": {
-        "name": "Prairie Coreopsis",
+        "name": "prairie coreopsis",
         "sci_name": "Coreopsis palmata",
         "relative_size": 1.0,
         "art_file": "Coreopsis_palmata.png",
@@ -536,7 +536,7 @@
         "description": "Coreopsis palmata or Prairie Coreopsis is a short perennial with yellow-orange flower heads and dark green leaves. Prairie coreopsis grows in sunny areas and prairie landscapes and flowers from June to August. The open flower heads provide access to pollen and nectar for all bees, especially short-tongued bees. Prairie coreopsis also attracts butterflies, moths, beetles, wasps, syrphid flies, and ants. Prairie coreopsis commonly attracts these bees: Ceratina (small carpenter bees), Megachile (leafcutter bees), Heraides (small resin bees), Melissodes (long-horned bees), and Coelioxys (cuckoo bees)."
       },
         "achillea_millefolium": {
-          "name": "Common Yarrow",
+          "name": "common yarrow",
           "sci_name": "Achillea millefolium",
           "relative_size": 1.0,
           "art_file": "Achillea_millefolium.png",
