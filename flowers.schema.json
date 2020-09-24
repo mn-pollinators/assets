@@ -17,7 +17,8 @@
             "type": "string"
           },
           "sci_name": {
-            "type": "string"
+            "type": "string",
+            "pattern": "^[A-Z][a-zäëïöüÿ\-]* [a-z][a-zäëïöüÿ\-]+$"
           },
           "relative_size": {
             "type": "number",
