@@ -28,10 +28,10 @@
             "$comment": "See https://www.iapt-taxon.org/nomen/pages/main/art_60.html for the precise structure of scientific names."
           },
           "relative_size": {
-            "description": "Roughly how large this bee is compared to an average bee. 1 is normal, 0.1 is small, and 10 is big.",
+            "description": "Roughly how large this bee is compared to an average bee. 1 is normal, 0.1 is small, and 3 is big.",
             "type": "number",
             "minimum": 0,
-            "maximum": 10
+            "maximum": 3
           },
           "flowers_accepted": {
             "description": "Which flowers this bee gets its pollen from.",
