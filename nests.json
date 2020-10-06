@@ -2,7 +2,7 @@
     "version": "1.0.1",
     "nests": {
       "cavity": {
-        "name": "Cavity Nest",
+        "name": "cavity nest",
         "art_file": "cavity.png",
         "photo_files": [
           {
@@ -21,7 +21,7 @@
         "description": "Some bees make their nests in small holes, or cavities, of standing dead trees or other plants. Some of the cavities are made by bees, but often they are made by the weather or other animals like birds or beetles."
       },
       "pithy_stem": {
-        "name": "Pithy Stem Nest",
+        "name": "pithy stem nest",
         "art_file": "pithy_stem.png",
         "photo_files": [
           {
@@ -34,7 +34,7 @@
         "description": "Some bees burrow into soft pithy stems of plants to make their nests."
       },
       "ground_bare": {
-        "name": "Soil or Bare Ground Nest",
+        "name": "bare ground nest",
         "art_file": "ground_bare.png",
         "photo_files": [
           {
@@ -53,7 +53,7 @@
         "description": "Most bee species live below ground. Different bees like different kinds of soil. Some bees like to make their nest on soil that has no grass or plants growing on it."
       },
       "ground_grass": {
-        "name": "Grass-Covered Ground Nest",
+        "name": "grass-covered ground nest",
         "art_file": "ground_grass.png",
         "photo_files": [
           {
@@ -66,7 +66,7 @@
         "description": "Most bee species live below ground. Different bees like different kinds of soil. Some bees like to make their nest on soil that has grass or other plants growing on it."
       },
       "rotting_wood": {
-        "name": "Rotting Wood Nest",
+        "name": "rotting wood nest",
         "art_file": "rotting_wood.png",
         "photo_files": [
           {
@@ -79,7 +79,7 @@
         "description": "Nests in rotting wood are made in the small holes, or cavities, in the soft wood."
       },
       "bumble_bee_nest": {
-        "name": "Bumble Bee Nest",
+        "name": "bumble bee nest",
         "art_file": "bumble_bee_nest.png",
         "photo_files": [
           {
@@ -92,7 +92,7 @@
         "description": "Bumble bees often make their nest below ground or in a rodent hole. The first bumble bee of the season (called gynes) searches for the right nest in spring. When they find the right place, they create a wax nectar pot to store nectar. The gynes also gather pollen to later feed larvae. Gynes make a large pollen ball, moisten it with nectar, lay multiple fertilized eggs on the pollen ball, then cover it with wax. After a period of incubation, the eggs hatch and feed on the pollen ball."
       },
       "honey_bee_house": {
-        "name": "Honey Bee House",
+        "name": "honey bee house",
         "art_file": "honey_bee_house.png",
         "photo_files": [
           {

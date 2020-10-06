@@ -14,17 +14,27 @@
         "type": "object",
         "properties": {
           "name": {
-            "type": "string"
+            "description": "This flower's common name.",
+            "type": "string",
+            "not": {
+              "pattern": "\\bor\\b",
+              "description": "If there are two common names, pick one, rather than joining both together with the word 'or'."
+            }
           },
           "sci_name": {
-            "type": "string"
+            "description": "This flower's scientific name.",
+            "type": "string",
+            "pattern": "^[A-Z][a-zäëïöüÿ\\-]* [a-z][a-zäëïöüÿ\\-]+$",
+            "$comment": "See https://www.iapt-taxon.org/nomen/pages/main/art_60.html for the precise structure of scientific names."
           },
           "relative_size": {
+            "description": "Roughly how large this bee is compared to an average bee. 1 is normal, 0.1 is small, and 3 is big.",
             "type": "number",
             "minimum": 0,
-            "maximum": 10
+            "maximum": 3
           },
           "flowers_accepted": {
+            "description": "Which flowers this bee gets its pollen from.",
             "type": "array",
             "uniqueItems": true,
             "items": {
@@ -66,12 +76,14 @@
             }
           },
           "active_period": {
+            "description": "A list of date ranges when you can find this bee species in Minnesota, in the form of ISO 8601 fragments like `--05-01/--06-30`.",
             "type": "array",
             "minItems": 1,
             "uniqueItems": true,
             "items": [
               {
-                "type": "string"
+                "type": "string",
+                "pattern": "--\\d\\d-\\d\\d/--\\d\\d-\\d\\d"
               }
             ]
           },
