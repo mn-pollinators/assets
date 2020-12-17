@@ -8,7 +8,7 @@ on:
 
 jobs:
   npm-publish:
-
+    if: github.event.base_ref == 'refs/heads/master'
     runs-on: ubuntu-latest
 
     steps:
@@ -31,7 +31,9 @@ jobs:
         NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
   gh-release:
+    if: github.event.base_ref == 'refs/heads/master'
     runs-on: ubuntu-latest
+
     steps:
     - name: Release on GitHub
       id: create_release
