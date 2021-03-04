@@ -80,7 +80,19 @@
             ]
           },
           "description": {
-            "type": "string"
+            "type": "object",
+            "properties": {
+              "summary": {
+                "description": "A paragraph describing this flower.",
+                "type": "string"
+              },
+              "bees_attracted": {
+                "description": "A human-readable list of what bees collect pollen from this flower.",
+                "type": "string"
+              }
+            },
+            "required": ["summary"],
+            "additionalProperties": false
           }
         },
         "required": [
