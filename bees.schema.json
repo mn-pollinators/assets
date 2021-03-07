@@ -2,9 +2,6 @@
   "$schema": "http://json-schema.org/draft-07/schema#",
   "type": "object",
   "properties": {
-    "version": {
-      "type": "string"
-    },
     "bees": {
       "type": "object",
       "propertyNames": {
@@ -167,7 +164,6 @@
     }
   },
   "required": [
-    "version",
     "bees"
   ],
   "additionalProperties": false

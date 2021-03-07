@@ -1,5 +1,4 @@
 {
-    "version": "1.0.1",
     "nests": {
       "cavity": {
         "name": "cavity nest",
