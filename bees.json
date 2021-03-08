@@ -42,9 +42,7 @@
           "image_link": "https://calphotos.berkeley.edu/cgi/img_query?enlarge=9092+3191+3539+0116"
         }
       ],
-      "active_period": [
-        "--04-01/--10-15"
-      ],
+      "active_period": "--04-01/--10-15",
       "description": {
         "sociality": "Honey bees are social and live together in a large colony.",
         "nesting": "The honey bee nest is divided with wax combs that store pollen and nectar. Honey bees live in a house or box that humans make for them.",
@@ -80,9 +78,7 @@
           "image_link": "https://www.inaturalist.org/photos/23594585"
         }
       ],
-      "active_period": [
-        "--04-01/--05-31"
-      ],
+      "active_period": "--04-01/--05-31",
       "description": {
         "genus": "Colletes, or 'Cellophane' bees.",
         "sociality": "Solitary",
@@ -126,9 +122,7 @@
           "image_link": "https://www.inaturalist.org/photos/58656415"
         }
       ],
-      "active_period": [
-        "--05-15/--09-15"
-      ],
+      "active_period": "--05-15/--09-15",
       "description": {
         "genus": "Hylaeus, or 'Yellow-Faced' or 'Masked' bees.",
         "sociality": "Solitary",
@@ -178,10 +172,7 @@
           "image_link": "https://www.inaturalist.org/photos/4965870"
         }
       ],
-      "active_period": [
-        "--04-01/--05-31",
-        "--09-01/--09-30"
-      ],
+      "active_period": "--04-01/--05-31",
       "description": {
         "genus": "Andrena, or 'Miner' bees.",
         "sociality": "Solitary",
@@ -223,9 +214,7 @@
           "image_link": "https://www.inaturalist.org/photos/7748105"
         }
       ],
-      "active_period": [
-        "--06-15/--09-15"
-      ],
+      "active_period": "--06-15/--09-15",
       "description": {
         "genus": "Calliopsis, or 'Mining' bees.",
         "sociality": "Solitary",
@@ -276,9 +265,7 @@
           "image_link": "https://www.inaturalist.org/photos/59064430"
         }
       ],
-      "active_period": [
-        "--05-15/--10-31"
-      ],
+      "active_period": "--05-15/--10-31",
       "description": {
         "genus": "Agapostemon, or 'Metallic Green Sweat' bees.",
         "sociality": "Solitary",
@@ -328,9 +315,7 @@
           "image_link": "https://www.inaturalist.org/photos/29257720"
         }
       ],
-      "active_period": [
-        "--05-15/--10-31"
-      ],
+      "active_period": "--05-15/--10-31",
       "description": {
         "genus": "Halictus, or 'Sweat' bees.",
         "sociality": "Primitively Social",
@@ -383,9 +368,7 @@
           "image_link": "https://www.inaturalist.org/photos/58954589"
         }
       ],
-      "active_period": [
-        "--04-01/--10-15"
-      ],
+      "active_period": "--04-01/--10-15",
       "description": {
         "genus": "Lasioglossum, or 'small sweat' bees.",
         "sociality": "Eusocial",
@@ -428,9 +411,7 @@
           "image_link": "https://www.inaturalist.org/photos/10289093"
         }
       ],
-      "active_period": [
-        "--05-15/--10-31"
-      ],
+      "active_period": "--05-15/--10-31",
       "description": {
         "genus": "Augochloropsis, or 'Metallic Green Sweat' bees.",
         "sociality": "Communal",
@@ -476,9 +457,7 @@
           "image_link": "https://www.inaturalist.org/photos/19200550"
         }
       ],
-      "active_period": [
-        "--05-15/--10-31"
-      ],
+      "active_period": "--05-15/--10-31",
       "description": {
         "genus": "Augochlorella, or 'Metallic Green Sweat' bees.",
         "sociality": "The golden sweat bee is solitary.",
@@ -520,9 +499,7 @@
           "image_link": "https://www.inaturalist.org/photos/19200550"
         }
       ],
-      "active_period": [
-        "--05-01/--10-15"
-      ],
+      "active_period": "--05-01/--10-15",
       "description": {
         "genus": "Augochlora, or 'Metallic Green Sweat' bees.",
         "sociality": "The pure green sweat bee is solitary.",
@@ -566,9 +543,7 @@
           "image_link": "https://www.inaturalist.org/photos/47151859"
         }
       ],
-      "active_period": [
-        "--05-01/--06-30"
-      ],
+      "active_period": "--05-01/--06-30",
       "description": {
         "genus": "Osmia, or 'Mason' bees.",
         "sociality": "The distinct mason bee is solitary.",
@@ -626,9 +601,7 @@
           "image_link": "https://www.inaturalist.org/photos/47125579"
         }
       ],
-      "active_period": [
-        "--05-15/--09-30"
-      ],
+      "active_period": "--05-15/--09-30",
       "description": {
         "genus": "Megachile, or 'Leaf-Cutter' bees.",
         "sociality": "Pugnacious leafcutter bees are solitary.",
@@ -674,9 +647,7 @@
           "image_link": "https://www.inaturalist.org/photos/42443016"
         }
       ],
-      "active_period": [
-        "--05-31/--06-30"
-      ],
+      "active_period": "--05-31/--06-30",
       "description": {
         "genus": "Hoplitis, or 'Mason' bees.",
         "sociality": "Mason bees are solitary.",
@@ -717,9 +688,7 @@
           "image_link": "https://www.inaturalist.org/photos/25942160"
         }
       ],
-      "active_period": [
-        "--06-15/--09-30"
-      ],
+      "active_period": "--06-15/--09-30",
       "description": {
         "genus": "Heriades, or 'Small Resin' bees.",
         "sociality": "Small resin bees are solitary.",
@@ -760,9 +729,7 @@
           "image_link": "https://www.inaturalist.org/photos/44212276"
         }
       ],
-      "active_period": [
-        "--06-01/--09-15"
-      ],
+      "active_period": "--06-01/--09-15",
       "description": {
         "genus": "Anthidium, or 'Wool Carder' bees.",
         "sociality": "Wool carder bees are solitary bees.",
@@ -832,9 +799,7 @@
           "image_link": "https://www.inaturalist.org/photos/50370607"
         }
       ],
-      "active_period": [
-        "--04-01/--10-15"
-      ],
+      "active_period": "--04-01/--10-15",
       "description": {
         "genus": "Bombus, or 'Bumble' bees.",
         "sociality": "Bumble bees are social bees.",
@@ -876,9 +841,7 @@
           "image_link": "http://www.inaturalist.org/photos/3655536"
         }
       ],
-      "active_period": [
-        "--05-01/--09-15"
-      ],
+      "active_period": "--05-01/--09-15",
       "description": {
         "genus": "Anthophora, or 'Digger' bees.",
         "sociality": "The bumble-bee-mimic digger bee is solitary.",
@@ -928,9 +891,7 @@
           "image_link": "https://www.inaturalist.org/photos/45783047"
         }
       ],
-      "active_period": [
-        "--07-01/--08-31"
-      ],
+      "active_period": "--07-01/--08-31",
       "description": {
         "genus": "Melissodes, or 'Long-Horned' bees.",
         "sociality": "Melissodes bees are social, communal, and sometimes solitary. The valiant long-horned bee is solitary.",
@@ -978,9 +939,7 @@
           "image_link": "https://www.inaturalist.org/photos/52047795"
         }
       ],
-      "active_period": [
-        "--04-01/--09-30"
-      ],
+      "active_period": "--04-01/--09-30",
       "description": {
         "genus": "Ceratina, or 'Small Carpenter' bees.",
         "sociality": "Small carpenter bees are solitary or semi-social bees. The spurred carpenter bee is solitary.",
@@ -1024,9 +983,7 @@
           "image_link": "https://www.inaturalist.org/photos/38706303"
         }
       ],
-      "active_period": [
-        "--05-01/--09-30"
-      ],
+      "active_period": "--05-01/--09-30",
       "description": {
         "genus": "Xylocopa, or 'Large Carpenter' bees.",
         "sociality": "Large carpenter bees are solitary, communal, or social bees. The eastern carpenter bee is solitary.",
