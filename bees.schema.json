@@ -81,37 +81,48 @@
             "type": "object",
             "properties": {
               "genus": {
-                "type": "string"
+                "type": "string",
+                "minLength": 1
               },
               "sociality": {
-                "type": "string"
+                "type": "string",
+                "minLength": 1
               },
               "nesting": {
-                "type": "string"
+                "type": "string",
+                "minLength": 1
               },
               "pollen_collection": {
-                "type": "string"
+                "type": "string",
+                "minLength": 1
               },
               "activity": {
-                "type": "string"
+                "type": "string",
+                "minLength": 1
               },
               "species": {
-                "type": "string"
+                "type": "string",
+                "minLength": 1
               },
               "brood": {
-                "type": "string"
+                "type": "string",
+                "minLength": 1
               },
               "forage": {
-                "type": "string"
+                "type": "string",
+                "minLength": 1
               },
               "features": {
-                "type": "string"
+                "type": "string",
+                "minLength": 1
               },
               "did_you_know": {
-                "type": "string"
+                "type": "string",
+                "minLength": 1
               },
               "chosen_bee": {
-                "type": "string"
+                "type": "string",
+                "minLength": 1
               }
             },
             "required": [],
