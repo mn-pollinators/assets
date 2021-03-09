@@ -112,6 +112,10 @@
                 "type": "string",
                 "minLength": 1
               },
+              "forage_behavior": {
+                "type": "string",
+                "minLength": 1
+              },
               "features": {
                 "type": "string",
                 "minLength": 1
