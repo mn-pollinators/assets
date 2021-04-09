@@ -55,10 +55,6 @@ for (const dirName of ['bees', 'flowers', 'nests']) {
   processDirectory(dirPath, `${resizedDir}/500w/${dirName}`, (file) =>
     sharp(file).resize({width: 500})
   );
-}
-
-for (const dirName of ['flowers', 'nests']) {
-  const dirPath = `${originalDir}/${dirName}`;
 
   processDirectory(
     dirPath,
@@ -70,6 +66,10 @@ for (const dirName of ['flowers', 'nests']) {
       background: { r: 0, g: 0, b: 0, alpha: 0 }
     })
   );
+}
+
+for (const dirName of ['flowers', 'nests']) {
+  const dirPath = `${originalDir}/${dirName}`;
   processDirectory(
     dirPath,
     `${resizedDir}/512-square-grayscale/${dirName}`,
